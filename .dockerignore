@@ -1,0 +1,14 @@
+.github
+archetypes
+node_modules
+public
+resources
+tmp
+.dockerignore
+.git
+.gitingore
+.gitmodules
+.hugo_build.lock
+Dockerfile
+hugo_stats.json
+README.md

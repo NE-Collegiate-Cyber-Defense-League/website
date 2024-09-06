@@ -9,6 +9,16 @@ You may need to remove the `public` directory if there are weird artifacts from 
 npm run start
 ```
 
+### Docker
+
+```bash
+docker compose up
+
+# Exposed on http://localhost:8080
+```
+
+Search seems a little bugged, removes the port.
+
 ## Publishing
 
 ```bash

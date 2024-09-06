@@ -26,7 +26,7 @@ Blue Teams will need to maintain, secure, and scale highly available services wh
 
 ## Finalists
 
-Congratulations to the 2024 Season Finalists!
+Congratulations to the 2023 Season Finalists!
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |

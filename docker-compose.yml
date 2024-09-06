@@ -1,0 +1,9 @@
+services:
+  hugo-tmp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    container_name: hugo-tmp
+    restart: unless-stopped
