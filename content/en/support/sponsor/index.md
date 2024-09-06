@@ -18,7 +18,7 @@ We would like to welcome and acknowledge our past sponsors who have helped us gr
 ### PayPal
 
 {{< rawhtml >}}
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align: center; justify-content: center; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; max-width: 500px; margin: 20px auto;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_target" style="text-align: center; justify-content: center; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; max-width: 500px; margin: 20px auto;">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="3QASYDNHNYKMS">
     <input type="hidden" name="on0" value="NECCDC Sponsorship Levels">

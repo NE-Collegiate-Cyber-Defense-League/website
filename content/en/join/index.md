@@ -14,7 +14,7 @@ In order to compete in NECCDC, a team will need a staff or faculty member from i
 {{< rawhtml >}}
 <div class="cards columns-1 custom-form" style="display: block; margin: 20px auto; max-width: 500px;">
   <div class="card" style="padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_target">
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="785BV3FUYCA4J">
       <div style="text-align: center;">
