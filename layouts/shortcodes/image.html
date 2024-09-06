@@ -1,0 +1,9 @@
+<div style="text-align: center;">
+  {{ if .Get "link" }}
+    <a href="{{ .Get "link" }}" target="_blank">
+      <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="width: {{ .Get "width" }}; height: {{ .Get "height" }};">
+    </a>
+  {{ else }}
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="width: {{ .Get "width" }}; height: {{ .Get "height" }};">
+  {{ end }}
+</div>

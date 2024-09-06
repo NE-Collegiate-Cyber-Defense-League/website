@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range .Pages }}
+    {{ $includeInList := default true .Params.includeInList }}
+    {{ if $includeInList }}
+      <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Description }}</p>
+      </article>
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,42 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/images/new4-dark-logo.png"
+logo_on_black: "/images/new3-light-logo.png"
+custom_js: []
+custom_css: []
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: ["/images/new3-light-logo.png"]
+
+github_edit: "Edit this page"
+
+github:
+  repo_url: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/blob/master"
+  show_edit_link: true
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: ""
+  flickr: ""
+  github: "https://github.com/NE-Collegiate-Cyber-Defense-League/"
+  instagram: ""
+  landscape: ""
+  linkedin: ""
+  mastodon: "https://infosec.exchange/@neccdl"
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: "https://twitter.com/neccdl"
+  x: ""
+  youtube: "https://www.youtube.com/channel/UCVyEID-3vL5nnJYEyrDcE4g"
+
+# Makes the header sticky on tall screens
+sticky_header: true
+# Enable search in header UI
+show_search: true

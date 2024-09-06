@@ -1,0 +1,25 @@
+---
+title: "About"
+description: "Content about what NECCDL is"
+---
+
+The Northeast Collegiate Cyber Defense League, Inc is a 501(c)(3) registered non-profit organization.
+
+The NECCDL relies on the support of league member institutions and sponsors in order to provide administrative and organization services for regional competitions. We would welcome your non-profit donation through Paypal.
+
+
+{{< rawhtml >}}
+<br>
+<div>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align: center;">
+    <input type="hidden" name="cmd" value="_s-xclick" />
+    <input type="hidden" name="hosted_button_id" value="CJBAK7CADRRF8" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+  </form>
+</div>
+{{< /rawhtml >}}
+
+For more information on becoming a League supporter, please contact us at sponsor@neccdl.org
+
+Annual competitions are also made possible by a dedicated cadre of volunteers, if you or your organization are interested in volunteering for the league or in the cyber defense competition, please contact us at contact@neccdl.org or visit the volunteering page.
