@@ -1,0 +1,69 @@
+<footer class="footer">
+    <div class="container wrap">
+        <div class="footer__menu-cta-wrapper" style="justify-content: space-between; align-items: center;">
+
+            {{ with .Site.Params.footer_cta }}
+            {{ if and .text .link }}
+            <div class="footer__cta">
+                <a href="{{ .link | absLangURL }}" class="button tertiary" style="margin-left: 5px;">{{ .text }}</a>
+            </div>
+            {{ end }}
+            {{ end }}
+
+            <div class="copyright footer__cta">
+            {{- partial "footer/github.html" . -}}
+            </div>
+        </div>
+
+        <div class="footer__logo-social-wrapper">
+            {{ with .Site.Params.logo_on_black }}
+            <a class="logo-link" href="{{ "/" | absLangURL }}">
+                <img loading="lazy" class="logo" width="150" height="40" src="{{ . | absURL }}" alt="{{ $.Site.Title | safeHTMLAttr }}"></a>
+            {{ end }}
+
+            {{- partial "footer/social-links.html" . -}}
+        </div>
+
+        <div class="copyright">
+            <p>{{ .Site.Copyright | default "Copyright &copy; {{< current_year >}} All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)." | markdownify }}</p>
+
+            <div class="copyright__accessibility-git-wrapper">
+                {{ if .Site.Params.accessibility.help_url }}
+                <a href="{{ .Site.Params.accessibility.help_url }}" class="nowrap">{{ .Site.Params.accessibility.help_text | default
+                    "Accessibility Statement" }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</footer>
+
+{{/* Theme: Hover Intent */}}
+{{ $js := resources.Get "js/hoverintent.min.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+
+{{/* Theme: FAQ */}}
+{{ if and (eq .Type "faq") (eq .Kind "section") }}
+{{ $js := resources.Get "js/accordion.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+<script>
+    var stickyHeader = {{ if .Site.Params.sticky_header }}true{{ else }}false{{ end }};
+  </script>
+{{ end }}
+
+{{/* Theme: Scripts */}}
+{{ $js := resources.Get "js/scripts.js" }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ $js = $js | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ else }}
+<script defer src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* Shortcode: YouTube Enhanced */}}
+{{ if .HasShortcode "youtube_enhanced" }}
+{{ $js := resources.Get "js/youtube-lite.js" | resources.Minify }}
+<script type="module" src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* User: Custom JS */}}
+{{- partial "footer/custom-js.html" . }}

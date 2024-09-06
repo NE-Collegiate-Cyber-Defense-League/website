@@ -14,14 +14,14 @@ In order to compete in NECCDC, a team will need a staff or faculty member from i
 {{< rawhtml >}}
 <div class="cards columns-1 custom-form" style="display: block; margin: 20px auto; max-width: 500px;">
   <div class="card" style="padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_target">
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="785BV3FUYCA4J">
       <div style="text-align: center;">
         <h5 style="margin-bottom: 10px;">Institution Name</h5>
         <input type="text" name="os1" maxlength="200" 
                style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 20px;">
-        <h5 style="margin-bottom: 10px;">Coach Email</h5>
+        <h5 style="margin-bottom: 10px;">Coach Institutional Email</h5>
         <input type="text" name="os2" maxlength="200" 
                style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 20px;">
         <h5 style="margin-bottom: 10px;">Membership Type</h5>
@@ -32,7 +32,9 @@ In order to compete in NECCDC, a team will need a staff or faculty member from i
           <option value="Regular Membership" style="color: #333; background-color: #f3f3f3;">Regular Membership $250.00 USD</option>
         </select>
         <input type="hidden" name="currency_code" value="USD">
-        <input type="image" class="button" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" style="margin-top: 20px;">
+        <button type="submit" class="button" name="submit" style="margin-top: 20px; border: 0; padding: 10px 20px; color: white; font-size: 16px; cursor: pointer;">
+          Join Now
+      </button>
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> <!-- Tracking pixel -->
       </div>
     </form>
