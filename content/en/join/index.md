@@ -32,7 +32,7 @@ In order to compete in NECCDC, a team will need a staff or faculty member from i
           <option value="Regular Membership" style="color: #333; background-color: #f3f3f3;">Regular Membership $250.00 USD</option>
         </select>
         <input type="hidden" name="currency_code" value="USD">
-        <button type="submit" class="button" name="submit" style="margin-top: 20px; border: 0; padding: 10px 20px; color: white; font-size: 16px; cursor: pointer;">
+        <button type="submit" class="button" name="submit" style="margin-top: 10px; border: 0; padding: 20px 50px; color: white; font-size: 16px; cursor: pointer;">
           Join Now
       </button>
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> <!-- Tracking pixel -->

@@ -47,7 +47,6 @@ find public -type f -size +25M -exec rm -f {} +
 - Backfill other years (2019-2008), scrape data from PDFs
 - Fill out volunteer page
   - More info on the support page
-- Re-design Paypal form
 - Stats
   - Could probably use the cards or columns with some changes and then put it in the layouts/index.html
 - Featured page (not sure what this entails, forgot what I meant by it)
