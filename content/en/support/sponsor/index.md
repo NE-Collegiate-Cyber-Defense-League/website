@@ -36,7 +36,7 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
     </select>
     <input type="hidden" name="currency_code" value="USD">
     <input class="button" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" 
-            alt="PayPal - The safer, easier way to pay online!" style="margin-top: 20px; margin-bottom: 20px;">
+            alt="PayPal - The safer, easier way to pay online!" style="margin-top: 20px; margin-bottom: 20px; padding: 10px 30px;">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> <!-- Tracking pixel -->
 </form>
 
