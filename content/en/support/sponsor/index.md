@@ -13,9 +13,10 @@ Sponsors have a chance for exclusive resume access, participation in the competi
 
 We would like to welcome and acknowledge our past sponsors who have helped us grow to what we are today. Please contact us if you have been a past sponsor to let us know your thoughts at sponsor@neccdl.org.
 
-## Fund Donation Options:
+## Funding Options
+Sponsorship funding can be made directly through PayPal, or contact sponsor@neccdl.org to request an invoice or arrange a direct deposit.
 
-### PayPal
+{{< spacer 5 >}}
 
 {{< rawhtml >}}
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_target" style="text-align: center; justify-content: center; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; max-width: 500px; margin: 20px auto;">
@@ -41,12 +42,10 @@ We would like to welcome and acknowledge our past sponsors who have helped us gr
 
 {{< /rawhtml >}}
 
-### Alternative Methods
-If you wish alternative methods of payment including invoices or direct deposit, please contact sponsor@neccdl.org
 
-<br>
+{{< spacer 10 >}}
 
-### Benefits
+## Benefits
 
 {{< responsive_table >}}
 | | Supporter | Bronze | Silver | Gold | Platinum | Vibranium |
