@@ -1,6 +1,6 @@
 ---
-title: "History"
-description: "Frequently Asked Questions"
+title: History
+description: Information about the previous competitions
 path: "/history"
 ---
 

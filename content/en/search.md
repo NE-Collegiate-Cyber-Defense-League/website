@@ -1,6 +1,6 @@
 ---
 title: Search
-description: Search this site using Pagefind
+description: Search the Northeast Collegiate Cyber Defense League site
 ---
 
 {{< search_form >}}

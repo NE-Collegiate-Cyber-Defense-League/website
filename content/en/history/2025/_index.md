@@ -1,6 +1,6 @@
 ---
 title: "NECCDC 2025"
-description: foo bar
+description: Information about the NECCDC 2025 season
 weight: 1
 includeInList: false
 ---
