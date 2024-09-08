@@ -1,6 +1,6 @@
 ---
 title: "Sponsor"
-description: "Frequently Asked Questions"
+description: The Northeast Collegiate Cyber Defense League would not be possible without our generous support from out sponsors
 includeInList: false
 ---
 
