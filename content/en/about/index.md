@@ -20,4 +20,4 @@ The NECCDL relies on the support of league member institutions and sponsors in o
 
 For more information on becoming a League supporter, please contact us at sponsor@neccdl.org
 
-Annual competitions are also made possible by a dedicated cadre of volunteers, if you or your organization are interested in volunteering for the league or in the cyber defense competition, please contact us at contact@neccdl.org or visit the volunteering page.
+Annual competitions are also made possible by a dedicated cadre of volunteers, if you or your organization are interested in volunteering for the league or in the cyber defense competition, please contact us at contact@neccdl.org.
