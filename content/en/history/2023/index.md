@@ -12,8 +12,6 @@ Brought to you by
 
 {{< image src="/images/league-members/umass_lowell.png" alt="Umass Lowell Logo" width="25%" height="auto" >}}
 
-## Was Syracuse in 2023? I see there resources submission...
-
 ---
 
 {{<toc>}}
@@ -104,7 +102,6 @@ Additional the source code for the regionals inject #13 can be [found here](http
 - [Pace University](https://github.com/bergcybersec/pace-ccdc-2023)
 - [Rochester Institute of Technology](https://github.com/orgs/CCDC-RIT/repositories)
 - [Roger Williams University](https://github.com/CIC-RWU/CIC-Scripts)
-- [Syracuse University](https://github.com/suinfosecclub/ccdc-2023)
 - [University at Buffalo](https://github.com/ubnetdef/CCDC)
 - [University of Maine](https://github.com/UMCST/CCDC2023-UMaine-Playbook)
 - [University of Massachusetts Lowell](https://github.com/UML-Cyber-Security/ccdc2023)
