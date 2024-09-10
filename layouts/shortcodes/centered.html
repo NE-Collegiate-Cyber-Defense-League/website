@@ -1,0 +1,5 @@
+{{ $size := .Get 0 | default "h2" }}
+
+<div style="text-align: center;">
+  {{ printf "<%s>%s</%s>" $size (.Inner | safeHTML) $size | safeHTML }}
+</div>

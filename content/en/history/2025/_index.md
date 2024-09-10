@@ -9,12 +9,12 @@ includeInList: false
 Planning to plan for the NECCDC 2025 is underway!
 {{< /intro >}}
 
-<!-- ---
-
-{{<toc>}}
+{{< spacer 10 >}}
 
 ---
 
-## Information Packets
+{{< centered "h2" >}}
+2025 Kickoff Meeting
+{{< /centered >}}
 
-{{< resources style="code" sort="desc" />}} -->
+{{< countdown "2024-10-18T18:00:00" >}}
