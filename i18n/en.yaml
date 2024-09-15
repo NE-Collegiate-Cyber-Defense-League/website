@@ -6,7 +6,7 @@ hero2.1:
 hero2.2:
   other: Defense League
 explainerText:
-  other: The Northeast Collegiate Cyber Defense League (NECCDL) is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of the yearly hosting institution. The League is operated by volunteers and is funded by [league sponsors](/support/sponsor/) and an annual team registration fee.
+  other: The Northeast Collegiate Cyber Defense League (NECCDL) is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of the yearly hosting institution. The League is operated by volunteers and is funded by [league sponsors](/support/sponsor/) and an annual team membership fee.
 explainerButton:
   other: About us
 sectionTitle:
@@ -30,11 +30,11 @@ sectionSpacing2:
 sectionTitle3:
   other: Upcoming Events
 sectionText3:
-  other: <p class="blurred">The 2025 Northeast Collegiate Cyber Defense Competition is hosted by <span>good try script kitty</span> university.  The theme will be based around <span>Kubernetes<<!--so much kubernetes /s --></span>. <br><br><strong>Info Session | Friday 11 Oct @ 6:00 pm</strong></p>
+  other: <p class="blurred">The 2025 Northeast Collegiate Cyber Defense Competition is hosted by <span>good try script kitty</span> university.  The theme will be based around <span>Kubernetes<<!--so much kubernetes /s --></span>.</strong></p>
 sectionButton3:
   other: NECCDC 2025
 sectionSpacing3:
-  other: "0"
+  other: "48"
 
 # Used by the resources shortcode
 Byte-symbol:

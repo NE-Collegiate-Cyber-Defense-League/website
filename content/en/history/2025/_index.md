@@ -8,7 +8,11 @@ includeInList: false
 ---
 
 {{< centered "h2" >}}
-2025 Kickoff Information Session
+2025 Season Theme will
+{{< /centered >}}
+
+{{< centered "h4" >}}
+Be revealed on
 {{< /centered >}}
 
 {{< centered "h4" >}}
