@@ -6,20 +6,17 @@ en:
   title: "NECCDL"
   params:
     description: "Site Description"
-    ### accessibility ###
     # accessibility:
     #   skip_text: "Skip to content"
     #   help_text: "Accessibility Statement"
     #   help_url: "/example-page/"
-    ### calls to action ###
     # main_cta:
     #   text: "Join"
     #   link: "/join/"
     footer_cta:
       text: "Sponsor"
       link: "/support/sponsor/"
-    # github_edit: "Edit this page on GitHub"
-  ### example menu showing children ###
+
   menu:
     main:
     - identifier: "about"
@@ -34,7 +31,7 @@ en:
 
     - identifier: "sponsor"
       name: "Sponsor"
-      url: "/support/sponsor/"
+      url: "/sponsor/"
       weight: 3
 
     # - identifier: "support"

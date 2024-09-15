@@ -52,7 +52,7 @@ Congratulations to the 2024 Season Finalists!
 
 ## Sponsors
 
-NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
+NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcYearlyParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
 
 | **Vibranium Sponsors** |
 | - |

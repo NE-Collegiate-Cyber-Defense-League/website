@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="grid hero-grid">
+  <div class="grid hero-grid" style="row-gap: 0px">
     <div class="hero-grid__col1">
       <h1 class="home-title">
         <span class="large-text">{{ i18n "hero1" }}</span>
@@ -27,6 +27,68 @@
     </div>
   </div>
 
+  <div class="stats-container">
+    <div class="stat-item">
+      <div class="stat-number" data-target="{{ i18n "neccdcInstitutions" | markdownify }}">0</div>
+      <p class="stat-label" style="margin-block-start: 0px;">Higher Education<br>Institutional Partners</p>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number" data-target="{{ i18n "neccdcStudents" | markdownify }}" data-plus="true">0</div>
+      <p class="stat-label" style="margin-block-start: 0px;">Students Strengthened<br>Through Experience</p>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number" data-target="{{ i18n "neccdcRunningYears" | markdownify }}">0</div>
+      <p class="stat-label" style="margin-block-start: 0px;">Years of Continuous<br>Innovation</p>
+    </div>
+  </div>
+  
+  <style>
+    .stats-container {
+      display: flex;
+      justify-content: space-around;
+      margin: 20px 0;
+    }
+    .stat-item {
+      text-align: center;
+    }
+    .stat-number {
+      font-size: 3vw;
+      font-weight: bold;
+    }
+    .stat-label {
+      margin-top: 10px;
+      font-size: 1.6vw;
+    }
+  </style>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const counters = document.querySelectorAll('.stat-number');
+      
+      counters.forEach(counter => {
+        const updateCount = () => {
+          const target = +counter.getAttribute('data-target');
+          const count = +counter.innerText;
+          const speed = 100;
+          const increment = target / speed;
+          
+          if (count < target) {
+            counter.innerText = Math.ceil(count + increment);
+            setTimeout(updateCount, 5);
+          } else {
+            counter.innerText = target;
+            // Add "+" symbol if 'data-plus' attribute is set to "true"
+            if (counter.getAttribute('data-plus') === "true") {
+              counter.innerText += "+";
+            }
+          }
+        };
+  
+        updateCount();
+      });
+    });
+  </script>
+
   <hr />
 
   <h3 class="h4">{{ i18n "sectionTitle" | markdownify }}</h3>
@@ -36,10 +98,10 @@
       <h2>{{ i18n "sectionTitle1" }}</h2>
       <p>{{ i18n "sectionText1" | markdownify }}</p>
 
-      <div class="spacer-48" aria-hidden="true">
+      <div class="spacer-{{ i18n "sectionSpacing1" | markdownify }}" aria-hidden="true">
         <style>
-            .spacer-48 {
-                height: 48px;
+            .spacer-{{ i18n "sectionSpacing1" | markdownify }} {
+                height: {{ i18n "sectionSpacing1" | markdownify | int }}px;
             }
         </style>
       </div>
@@ -51,21 +113,29 @@
       <h2>{{ i18n "sectionTitle2" }}</h2>
       <p>{{ i18n "sectionText2" | markdownify }}</p>
       <a href="{{ relLangURL "/support/sponsor/" }}" class="button">{{ i18n "sectionButton2" }}</a>
+
+      <div class="spacer-{{ i18n "sectionSpacing2" | markdownify }}" aria-hidden="true">
+        <style>
+            .spacer-{{ i18n "sectionSpacing2" | markdownify }} {
+                height: {{ i18n "sectionSpacing2" | markdownify | int }}px;
+            }
+        </style>
+      </div>
+
     </div>
 
     <div class="card">
       <h2>{{ i18n "sectionTitle3" }}</h2>
       <p>{{ i18n "sectionText3" | markdownify }}</p>
 
-      <div class="spacer-95" aria-hidden="true">
+      <div class="spacer-{{ i18n "sectionSpacing3" | markdownify }}" aria-hidden="true">
         <style>
-            .spacer-95 {
-                height: 95px;
+            .spacer-{{ i18n "sectionSpacing3" | markdownify }} {
+                height: {{ i18n "sectionSpacing3" | markdownify | int }}px;
             }
         </style>
       </div>
-
-      <a href="{{ relLangURL "/history/" }}" class="button">{{ i18n "sectionButton3" }}</a>
+      <a href="{{ relLangURL "/history/2025" }}" class="button">{{ i18n "sectionButton3" }}</a>
     </div>
   </div>
 

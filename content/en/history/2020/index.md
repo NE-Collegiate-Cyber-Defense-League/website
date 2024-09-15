@@ -29,13 +29,13 @@ The theme of NECCDC 2020 was visibility
 In the Cybersecurity Industry, visibility can be defined as:
 > The facilitation of an unobstructed view into the operation of security controls and ease of organized access to information relevant to responding to security incidents efficiently.
 
-### Concepts involved in the theme of visibility include:
+### Concepts involved in the theme of visibility include
 
 * Inventory of assets and services
 * Development and documentation of consistent technology processes
 * Awareness of activity on various systems involved in providing services
 
-### Technologies that often help improve visibility:
+### Technologies that often help improve visibility
 
 * Log collection and analysis systems
 * Security Information and Event Management (SIEM)

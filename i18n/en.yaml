@@ -6,7 +6,7 @@ hero2.1:
 hero2.2:
   other: Defense League
 explainerText:
-  other: The Northeast Collegiate Cyber Defense League (NECCDL) is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of hosting institution. The League is operated by volunteers and is funded by [league sponsors](/support/sponsor/) and an annual team registration fee.
+  other: The Northeast Collegiate Cyber Defense League (NECCDL) is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of the yearly hosting institution. The League is operated by volunteers and is funded by [league sponsors](/support/sponsor/) and an annual team registration fee.
 explainerButton:
   other: About us
 sectionTitle:
@@ -17,18 +17,24 @@ sectionText1:
   other: We welcome all interested institutions geographically located in the Northeast region to participate in yearly NECCDC competition and participate in the NECCDL league.
 sectionButton1:
   other: Join
+sectionSpacing1:
+  other: "48"
 sectionTitle2:
   other: Sponsor
 sectionText2:
   other: NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to the best and brightest students from colleges around the Northeast.
 sectionButton2:
   other: Sponsor
+sectionSpacing2:
+  other: "1"
 sectionTitle3:
-  other: NECCDC History
+  other: Upcoming Events
 sectionText3:
-  other: Discover the themes of the past events and the winners of the competition.
+  other: <p class="blurred">The 2025 Northeast Collegiate Cyber Defense Competition is hosted by <span>good-try dude</span> university.  The theme will be based around <span>Kubernetes<<!--so much kubernetes--></span>. <br><br><strong>Info Session | Friday 11 Oct @ 6:00 pm</strong></p>
 sectionButton3:
-  other: Previous Competitions
+  other: NECCDC 2025
+sectionSpacing3:
+  other: "0"
 
 # Used by the resources shortcode
 Byte-symbol:
@@ -39,5 +45,11 @@ Megabyte-symbol:
   other: MB
 
 # NECCDL Stats
-neccdcParticipants:
+neccdcYearlyParticipants:
   other: 130+
+neccdcStudents:
+  other: "2700"
+neccdcInstitutions:
+  other: "28"
+neccdcRunningYears:
+  other: "18"

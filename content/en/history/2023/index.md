@@ -52,7 +52,7 @@ Congratulations to the 2023 Season Finalists!
 
 ## Sponsors
 
-NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
+NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcYearlyParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
 
 Sponsors have a chance for exclusive resume access, participation in the competition, active collaboration (in-kind donations, training, mentorship, inject development), sharing of job opportunities / company information, and networking with students during the event. Your contributions are essential in creating a better quality environment for our students to learn and grow while developing a pipeline for their future success.
 

@@ -29,7 +29,7 @@ Rochester Institute of Technology (1st), Northeastern University (2nd), Champlai
 Rochester Institute of Technology (1st), Champlain College (2nd), Worcester Polytechnic Institute (3rd), Alfred State University, Northeastern University, SUNY Polytechnic Institute, Syracuse University, University of Maine, University of Massachusetts Boston, University of New Hampshire, Worcester Polytechnic Institute
 
 ### 2013 Finalists
-Rochester Institute of Technology (1st), Polytechnic Institute of NYU (2nd), Northeastern University (3rd), Worcester Polytechnic Institute (3rd), Alfred State College, Champlain College, Polytechnic Institute of NYU, Syracuse University, University at Buffalo-SUNY, University of Maine, University of New Hampshire
+Rochester Institute of Technology (1st), Polytechnic Institute of NYU (2nd), Northeastern University (3rd), Worcester Polytechnic Institute (3rd), Alfred State College, Champlain College, Syracuse University, University at Buffalo-SUNY, University of Maine, University of New Hampshire
 
 ### 2012 Finalists
 Rochester Institute of Technology (1st), University of New Hampshire (2nd), University of Maine (3rd), Alfred State College, Champlain College, Harvard University, Northeastern University, Polytechnic Institute of NYU, Stevens Institute of Technology, University at Buffalo-SUNY, University of Massachusetts Boston, University of New Hampshire, Worcester Polytechnic Institutes
