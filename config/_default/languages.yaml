@@ -5,7 +5,7 @@ en:
   copyright: " "
   title: "NECCDL"
   params:
-    description: "Site Description"
+    description: "The Northeast Collegiate Cyber Defense League is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of the yearly hosting institution"
     # accessibility:
     #   skip_text: "Skip to content"
     #   help_text: "Accessibility Statement"
@@ -15,7 +15,7 @@ en:
     #   link: "/join/"
     footer_cta:
       text: "Sponsor"
-      link: "/support/sponsor/"
+      link: "/sponsor/"
 
   menu:
     main:

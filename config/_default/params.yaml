@@ -15,7 +15,7 @@ github_edit: "Edit this page"
 
 github:
   repo_url: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/blob/master"
-  show_edit_link: true
+  show_edit_link: false
 
 social_links:
   devstats: ""
