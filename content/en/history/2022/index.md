@@ -1,6 +1,6 @@
 ---
 title: "NECCDC 2022"
-description: "Information about the 2022 Northeast CCDC"
+description: "Participants were tasked with securing systems by improving network and service visibility. The competition emphasized managing endpoint detection, identity management, and zero-trust principles in response to sudden security challenges."
 weight: 4
 ---
 

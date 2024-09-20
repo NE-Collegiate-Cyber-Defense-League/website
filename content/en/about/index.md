@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Learn about the NECCDL"
+description: "Learn about the Northeast Collegiate Cyber Defense League"
 ---
 
 The Northeast Collegiate Cyber Defense League, Inc is a 501(c)(3) registered non-profit organization.

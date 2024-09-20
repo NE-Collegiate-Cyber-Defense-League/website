@@ -1,6 +1,6 @@
 ---
 title: "NECCDC 2020"
-description: "Information about the 2020 Northeast CCDC"
+description: "This years theme of Visibility, emphasizing the importance of maintaining an unobstructed view into security controls and incident responses. Participants were tasked with improving network awareness through asset inventory, log analysis, and SIEM systems."
 weight: 6
 ---
 
