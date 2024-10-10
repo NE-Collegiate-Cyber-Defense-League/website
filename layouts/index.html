@@ -97,15 +97,6 @@
     <div class="card">
       <h2>{{ i18n "sectionTitle1" }}</h2>
       <p>{{ i18n "sectionText1" | markdownify }}</p>
-
-      <div class="spacer-{{ i18n "sectionSpacing1" | markdownify }}" aria-hidden="true">
-        <style>
-            .spacer-{{ i18n "sectionSpacing1" | markdownify }} {
-                height: {{ i18n "sectionSpacing1" | markdownify | int }}px;
-            }
-        </style>
-      </div>
-    
       <a href="{{ relLangURL "/join/" }}" class="button">{{ i18n "sectionButton1" }}</a>
     </div>
 
@@ -113,28 +104,11 @@
       <h2>{{ i18n "sectionTitle2" }}</h2>
       <p>{{ i18n "sectionText2" | markdownify }}</p>
       <a href="{{ relLangURL "/sponsor/" }}" class="button">{{ i18n "sectionButton2" }}</a>
-
-      <div class="spacer-{{ i18n "sectionSpacing2" | markdownify }}" aria-hidden="true">
-        <style>
-            .spacer-{{ i18n "sectionSpacing2" | markdownify }} {
-                height: {{ i18n "sectionSpacing2" | markdownify | int }}px;
-            }
-        </style>
-      </div>
-
     </div>
 
     <div class="card">
       <h2>{{ i18n "sectionTitle3" }}</h2>
       <p>{{ i18n "sectionText3" | markdownify }}</p>
-
-      <div class="spacer-{{ i18n "sectionSpacing3" | markdownify }}" aria-hidden="true">
-        <style>
-            .spacer-{{ i18n "sectionSpacing3" | markdownify }} {
-                height: {{ i18n "sectionSpacing3" | markdownify | int }}px;
-            }
-        </style>
-      </div>
       <a href="{{ relLangURL "/history/2025" }}" class="button">{{ i18n "sectionButton3" }}</a>
     </div>
   </div>

@@ -17,25 +17,18 @@ sectionText1:
   other: We welcome all interested institutions geographically located in the Northeast region to participate in yearly NECCDC competition and participate in the NECCDL league.
 sectionButton1:
   other: Join
-sectionSpacing1:
-  other: "48"
 sectionTitle2:
   other: Sponsor
 sectionText2:
   other: NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to the best and brightest students from colleges around the Northeast.
 sectionButton2:
   other: Sponsor
-sectionSpacing2:
-  other: "1"
 sectionTitle3:
   other: Upcoming Events
 sectionText3:
-  other: <p class="blurred">The 2025 Northeast Collegiate Cyber Defense Competition is hosted by <a href="https://www.rwu.edu/" target="_target">Roger Williams University</a>.  The theme will be based around <span>Unreleased, wait</span>.</strong></p>
-
+  other: The 2025 Northeast Collegiate Cyber Defense Competition is hosted by <a href="https://www.rwu.edu/" target="_target">Roger Williams University</a>.  The theme will be based around 3rd party risk in the pharmaceutical industry.
 sectionButton3:
   other: NECCDC 2025
-sectionSpacing3:
-  other: "48"
 
 # Used by the resources shortcode
 Byte-symbol:

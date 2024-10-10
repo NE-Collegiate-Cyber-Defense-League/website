@@ -5,18 +5,34 @@ weight: 1
 includeInList: false
 ---
 
+{{< image src="images/neccdc-2025-logo.png" alt="NECCDC 2025 Logo" width="30%" height="auto" >}}
+
+{{<intro>}}
+Brought to you by
+{{</intro>}}
+
+{{< image src="images/roger-williams-university-logo.png" alt="Roger Williams University logo" width="60%" height="auto" >}}
+
 ---
 
-{{< centered "h2" >}}
-2025 Season Theme will
-{{< /centered >}}
+{{<toc>}}
 
-{{< centered "h4" >}}
-Be revealed on
-{{< /centered >}}
+---
 
-{{< centered "h4" >}}
-Friday 11 Oct @ 6:00 pm
-{{< /centered >}}
+## Theme
 
-{{< countdown "2024-10-11T18:00:00" >}}
+
+## Schedule
+
+{{< responsive_table >}}
+| | |
+| - | - |
+| Registration and Membership Deadline | Friday, 24 Jan, 2025 |
+| Qualifier Beta | Saturday, 25 Jan, 2025 |
+| Qualifier | Saturday, 01 Feb, 2025 |
+| Regional | Friday, 14 March - Sunday, 16 March, 2025 |
+{{< /responsive_table >}}
+
+## Resources
+
+{{< resources style="code" sort="desc" />}}
