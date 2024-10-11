@@ -30,12 +30,12 @@ Hosted by
 > Effective third-party risk management involves assessing vendors' security practices, implementing robust contract management, and conducting continuous monitoring to mitigate potential vulnerabilities.
 > By proactively managing these risks, healthcare providers can protect patient privacy, maintain trust, and adhere to strict regulatory frameworks like HIPAA and HITECH.
 
-## Schedule
+## Timeline
 
 {{< responsive_table >}}
 | | |
 | - | - |
-| **Registration and Membership Deadline** | Friday, 24 Jan, 2025 |
+| **Registration, Membership Deadline and Repository Freeze** | Friday, 24 Jan, 2025 |
 | **Qualifier Beta** | Saturday, 25 Jan, 2025 |
 | **Qualifier** | Saturday, 01 Feb, 2025 |
 | **Regional** | Friday, 14 March - Sunday, 16 March, 2025 |
