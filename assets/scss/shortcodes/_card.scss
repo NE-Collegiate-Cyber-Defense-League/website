@@ -8,6 +8,10 @@
 }
 
 .card {
+    justify-content: center; /* Center the button vertically */
+    align-items: center;     /* Center the button horizontally */
+    height: 100%;            /* Ensure the card takes full height */
+
     display: flex;
     flex-direction: column;
     padding: 40px 24px;
@@ -29,4 +33,5 @@
 .cards .card a.button {
     margin-top: 10px;
     margin-bottom: 0;
+    font-size: 1.2em;
 }
