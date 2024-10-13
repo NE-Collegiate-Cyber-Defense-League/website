@@ -1,0 +1,37 @@
+.cards {
+    display: grid;
+    row-gap: 32px;
+    column-gap: 3%;
+    grid-template-columns: repeat(12, 1fr);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card {
+    justify-content: center; /* Center the button vertically */
+    align-items: center;     /* Center the button horizontally */
+    height: 100%;            /* Ensure the card takes full height */
+
+    display: flex;
+    flex-direction: column;
+    padding: 40px 24px;
+    border-radius: 10px;
+    background: var(--white);
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+
+    h2 {
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+
+    p {
+        flex-grow: 1;
+    }
+}
+
+// Forcing higher priority, another element was taking properties from this change
+.cards .card a.button {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 1.2em;
+}
