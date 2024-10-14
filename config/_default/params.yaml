@@ -14,7 +14,7 @@ images: ["/images/new3-light-logo.png"]
 github_edit: "Edit this page"
 
 github:
-  repo_url: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/blob/master"
+  repo_url: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/blob/main"
   show_edit_link: true
 
 social_links:
