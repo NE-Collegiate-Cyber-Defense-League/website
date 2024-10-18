@@ -148,25 +148,21 @@ $mobile-max: 999px;
 }
 
 
-
-
-
 .large-text {
     color: #383333;
     font-size: 7.2vw;
-    line-height: 1.2; /* Control the height of the line */
+    line-height: 1.2;
     display: inline-block;
 }
 
 .medium-text {
     color: #383333;
-    font-size: 4.4vw;
+    font-size: 4.35vw;
     line-height: 1.2;
     display: inline-block;
 }
   
 @media (max-width: 1000px) {
-/* Adjust sizes for larger displays */
     .large-text {
         font-size: 13vw;
     }
@@ -184,7 +180,7 @@ $mobile-max: 999px;
         line-height: 1;
     }
 }
-    
+
 .hidden-on-small {
     display: block; /* Ensure the image is visible by default */
 }
