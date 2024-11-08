@@ -1,6 +1,7 @@
 ---
 title: "Join the League"
 description: Northeast institutions can join the NECCDL by having a coach register the team and pay the annual membership fee.
+date: 1970-01-01
 ---
 
 We welcome all interested institutions geographically located in the Northeast region to participate in yearly NECCDC competition and participate in the NECCDL league.

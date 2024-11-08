@@ -2,6 +2,7 @@
 title: "Historic"
 description: "Results of competitions before written records"
 weight: 99
+date: 2019-01-01
 ---
 
 {{<toc>}}

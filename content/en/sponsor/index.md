@@ -2,6 +2,7 @@
 title: "Sponsor"
 description: The Northeast Collegiate Cyber Defense League would not be possible without our generous support from out sponsors
 includeInList: false
+date: 1970-01-01
 ---
 
 NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.

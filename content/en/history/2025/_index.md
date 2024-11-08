@@ -3,6 +3,7 @@ title: "NECCDC 2025"
 description: Information about the NECCDC 2025 season
 weight: 1
 includeInList: false
+date: 2024-10-05
 ---
 
 {{< image src="images/neccdc-2025-logo.png" alt="NECCDC 2025 Logo" width="30%" height="auto" >}}

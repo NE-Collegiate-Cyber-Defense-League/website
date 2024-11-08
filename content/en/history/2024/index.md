@@ -2,6 +2,7 @@
 title: "NECCDC 2024"
 description: "The 2024 NECCDC competition focuses on defending critical infrastructure, with participants protecting both IT and OT systems. Teams from top schools in the Northeast, compete to safeguard industrial control systems from cyber threats."
 weight: 2
+date: 2024-01-01
 ---
 
 {{< image src="images/logo_2024.png" alt="NECCDC 2024 Logo" width="60%" height="auto" >}}

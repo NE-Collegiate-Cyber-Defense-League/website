@@ -2,6 +2,7 @@
 title: History
 description: Information about previous Northeast Collegiate Cyber Defense Competitions
 path: "/history"
+date: 2020-01-01
 ---
 
 NECCDC was established over {{< i18n "neccdcRunningYears" >}} years ago when it was first held in 2008.
