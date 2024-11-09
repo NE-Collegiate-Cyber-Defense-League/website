@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "Learn about the Northeast Collegiate Cyber Defense League"
+date: 1970-01-01
 ---
 
 The Northeast Collegiate Cyber Defense League, Inc is a 501(c)(3) registered non-profit organization.
