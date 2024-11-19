@@ -49,25 +49,26 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
 ## Benefits
 
 {{< responsive_table >}}
-| | Supporter | Bronze | Silver | Gold | Platinum | Vibranium |
-| - | - | - | - | - | - | - |
-| **Limit** | Unlimited | Unlimited | Unlimited | 10 | 15 | 2 |
-| **Cost** | $500 | $2,000 | $5,000 | $10,000 | $20,000 | $35,000 |
-| **Logo & link included on website** | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Logo placement in event programming** | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Invitations to recruiting dinner** | One | Two | Three | Four | Six | Eight |
-| **Student resume booklet** | Regionals | Regionals | Regionals & Qualifiers | Regionals & Qualifiers | Regionals & Qualifiers | Regionals & Qualifiers |
-| **White/Orange/Red team participation** | Eligible to apply | Eligible to apply | Eligible to apply | One guaranteed space for a qualified individual | One guaranteed space for a qualified individual | One guaranteed space for a qualified individual |
-| **Logo on electronic signage** | | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Booth at recruiting dinner** | | | 6 feet | 6 feet | 12 feet | 12 feet |
-| **Logo on select marketing materials** | | | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Opportunity to supply custom swag** | | | {{< check >}} | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Opportunity to display products/literature at the venue** | | | | {{< check >}} | {{< check >}} | {{< check >}} |
-| **Space for a banner in the registration and competition areas** | | | | | {{< check >}} | {{< check >}} |
-| **Reserved seats at awards banquet** | | | | | {{< check >}} | {{< check >}} |
-| **Company logo on event T-shirt** | | | | | | {{< check >}} |
-| **Name recognition in title of competition** | | | | | | {{< check >}} |
-| **VIP competition Tour** | | | | | | {{< check >}} |
-| **Opportunity to present an award** | | | | | | {{< check >}} |
-| **Speaking slot** | | | | | | {{< check >}} |
+|                                                                  | Supporter         | Patron            | Bronze            | Silver                 | Gold                                            | Platinum                                        | Vibranium                                       |
+| ---------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ---------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| **Limit**                                                        | Unlimited         | Unlimited         | Unlimited         | Unlimited              | 10                                              | 15                                              | 2                                               |
+| **Cost**                                                         | $500              | $1000             | $2,000            | $5,000                 | $10,000                                         | $20,000                                         | $35,000                                         |
+| **Logo & link included on website**                              | {{< check >}}     | {{< check >}}     | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Logo placement in event programming**                          | {{< check >}}     | {{< check >}}     | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Invitations to recruiting dinner**                             | One               | One               | Two               | Three                  | Four                                            | Six                                             | Eight                                           |
+| **Student resume booklet**                                       | Regionals         | Regionals         | Regionals         | Regionals & Qualifiers | Regionals & Qualifiers                          | Regionals & Qualifiers                          | Regionals & Qualifiers                          |
+| **White/Orange/Red team participation**                          | Eligible to apply | Eligible to apply | Eligible to apply | Eligible to apply      | One guaranteed space for a qualified individual | One guaranteed space for a qualified individual | One guaranteed space for a qualified individual |
+| **Endorse a competition business request**                       |                   | {{< check >}}     | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Logo on electronic signage**                                   |                   |                   | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Booth at recruiting dinner**                                   |                   |                   |                   | 6 feet                 | 6 feet                                          | 12 feet                                         | 12 feet                                         |
+| **Logo on select marketing materials**                           |                   |                   |                   | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Opportunity to supply custom swag**                            |                   |                   |                   | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Opportunity to display products/literature at the venue**      |                   |                   |                   |                        | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
+| **Space for a banner in the registration and competition areas** |                   |                   |                   |                        |                                                 | {{< check >}}                                   | {{< check >}}                                   |
+| **Reserved seats at awards banquet**                             |                   |                   |                   |                        |                                                 | {{< check >}}                                   | {{< check >}}                                   |
+| **Company logo on event T-shirt**                                |                   |                   |                   |                        |                                                 |                                                 | {{< check >}}                                   |
+| **Name recognition in title of competition**                     |                   |                   |                   |                        |                                                 |                                                 | {{< check >}}                                   |
+| **VIP competition Tour**                                         |                   |                   |                   |                        |                                                 |                                                 | {{< check >}}                                   |
+| **Opportunity to present an award**                              |                   |                   |                   |                        |                                                 |                                                 | {{< check >}}                                   |
+| **Speaking slot**                                                |                   |                   |                   |                        |                                                 |                                                 | {{< check >}}                                   |
 {{< /responsive_table >}}
