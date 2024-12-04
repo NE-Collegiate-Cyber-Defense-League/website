@@ -118,3 +118,15 @@ Sponsors have a chance for exclusive resume access, participation in the competi
 Over the course of the competition teams will need access to an array of documents containing information that will be important for their participation and practice. This page is a collection of those documents.
 
 {{< resources style="code" sort="desc" />}}
+
+### Team Resource Submissions
+
+- [Champlain College](https://github.com/firelily20/Champlain-College-CCDC-2021)
+- [Northeastern University](https://github.com/nuccdc/NUCCDC-2021-Qualifiers-Tools)
+- [Pace University](https://github.com/khanson66/CCDC-TOOLS)
+- [Rochester Institute of Technology](https://github.com/RIT-CCDC/Scripts)
+- [Roger Williams University](https://github.com/EvanIRWU/neccdc_scripting)
+  - [Roger Williams University](https://github.com/EvanIRWU/NECCDC-Notion)
+- [UMass Lowell](https://github.com/fabrizio8/umlCCDC)
+- [University at Albany](https://github.com/pershado/UAlbany2021CCDC)
+- [University at Buffalo](https://github.com/pcfox-buf/ccdc-public.git)
