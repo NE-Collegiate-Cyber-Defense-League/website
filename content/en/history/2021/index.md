@@ -103,7 +103,7 @@ Sponsors have a chance for exclusive resume access, participation in the competi
 | **Bronze Sponsors** |
 | - |
 | {{< image alt="Cobalt Strike" src="images/cobalt_strike.png" width="20vw" height="auto" link="https://www.cobaltstrike.com/" >}} |
-| {{< image alt="Nuharbor" src="images/nuharbor.png" width="20vw" height="auto" link="https://www.nuharborsecurity.com" >}} |
+| {{< image alt="Nuharbor" src="images/nuHarbor.png" width="20vw" height="auto" link="https://www.nuharborsecurity.com" >}} |
 | {{< image alt="Arete" src="images/arete.svg" width="20vw" height="auto" link="https://arete.com/" >}} |
 | {{< image alt="SRA" src="images/sra.png" width="17vw" height="auto" link="https://sra.io/" >}} |
 
