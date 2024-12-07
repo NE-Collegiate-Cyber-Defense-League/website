@@ -42,6 +42,24 @@ Hosted by
 | **Regional** | Friday, 14 March - Sunday, 16 March, 2025 |
 {{< /responsive_table >}}
 
+## Sponsors
+
+NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcYearlyParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
+
+| **Gold Sponsors** |
+| - |
+| {{< image src="images/nsa.png" alt="NSA" width="16vw" height="auto" link="https://www.nsa.gov/">}} |
+
+| **Silver Sponsors** |
+| - |
+| {{< image src="images/cisco-networking-academy.png" alt="Cisco Network Academy" width="25vw" height="auto" link="https://www.netacad.com">}} |
+| {{< image src="images/paloalto-networks.png" alt="Paloalto Networks" width="25vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
+
+| **Bronze Sponsors** |
+| - |
+| {{< image src="images/battelle.png" alt="Battelle" width="20vw" height="auto" link="https://www.battelle.org/">}} |
+
+
 ## Resources
 
 {{< resources style="code" sort="desc" />}}
