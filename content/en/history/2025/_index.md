@@ -53,11 +53,12 @@ NECCDC would not be possible without the generous support of our sponsors. By be
 | **Silver Sponsors** |
 | - |
 | {{< image src="images/cisco-networking-academy.png" alt="Cisco Network Academy" width="25vw" height="auto" link="https://www.netacad.com">}} |
-| {{< image src="images/paloalto-networks.png" alt="Paloalto Networks" width="25vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
+| {{< image src="images/pan.png" alt="Paloalto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
+| {{< image src="images/splunk.png" alt="Splunk" width="15vw" height="auto" link="https://www.splunk.com/">}} |
 
 | **Bronze Sponsors** |
 | - |
-| {{< image src="images/battelle.png" alt="Battelle" width="20vw" height="auto" link="https://www.battelle.org/">}} |
+| {{< image src="images/fortra.png" alt="Fortra" width="18vw" height="auto" link="https://www.fortra.com/">}} |
 
 
 ## Resources
