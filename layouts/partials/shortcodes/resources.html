@@ -13,6 +13,8 @@
 {{- range sort $resources "Name" $sort }}
   {{- if findRE $pattern .Name }}
     {{- $fileName := path.Base .Name }}
+    {{- $nameWithoutExt := replaceRE `\.[^.]+$` "" $fileName }}
+    {{- $displayName := replace $nameWithoutExt "-" " " }}
     {{- $size := len .Content }}
     {{- $unit := "Byte-symbol" }}
     {{- if ge $size 1024 }}
@@ -24,7 +26,7 @@
       {{- $unit = "Megabyte-symbol" }}
     {{- end }}
     {{- $unitsymbol := $unit | T }}
-    <li><a href="{{ .RelPermalink }}">{{ $fileName }}</a> ({{$size}} {{$unitsymbol}})</li>
+    <li><a href="{{ .RelPermalink }}" target="_blank">{{ $displayName }}</a> ({{$size}} {{$unitsymbol}})</li>
   {{- end }}
 {{- end }}
   </ul>
