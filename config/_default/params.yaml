@@ -18,6 +18,7 @@ github:
   show_edit_link: true
 
 social_links:
+  bluesky: "https://bsky.app/profile/neccdl.bsky.social"
   devstats: ""
   discord: ""
   facebook: ""
@@ -32,7 +33,7 @@ social_links:
   slack: ""
   stackoverflow: ""
   threads: ""
-  twitter: "https://twitter.com/neccdl"
+  twitter: ""
   x: ""
   youtube: "https://www.youtube.com/@northeastcollegiatecyberde2930"
 
