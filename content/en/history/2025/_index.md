@@ -64,3 +64,16 @@ NECCDC would not be possible without the generous support of our sponsors. By be
 ## Resources
 
 {{< resources style="code" sort="desc" />}}
+
+
+### Team Resource Submissions
+
+- [Champlain College](https://github.com/champccdc/2025)
+- [Northeastern University](https://gitlab.com/nuccdc/tools)
+- [Pace University](https://github.com/BitEU/PaceUniversity-NECCDC-2025)
+- [Rochester Institute of Technology](https://github.com/CCDC-RIT/)
+- [Roger Williams University](https://github.com/CIC-RWU/CIC-Scripts)
+- [SUNY Albany](https://github.com/orgs/CyberDefenseOrganization/repositories)
+  - [Defense-Script-Deb-test](https://github.com/Dack985/Defense-Script-Deb-test)
+- [University of Massachusetts Amherst](https://github.com/UMassCybersecurity/CCDCScripts25)
+- [University of Massachusetts Lowell](https://github.com/UML-Cyber-Security/ccdc2025)
