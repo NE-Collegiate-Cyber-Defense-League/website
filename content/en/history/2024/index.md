@@ -48,7 +48,7 @@ Congratulations to the 2024 Season Finalists!
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="25vw" height="auto" link="https://www.stjohns.edu/">}} |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="35vw" height="auto" link="https://www.buffalo.edu/">}} |
-| {{< image src="/images/league-members/rhodeisland.png" alt="University Rhode Island" width="23vw" height="auto" link="https://www.uri.edu/">}} |
+| {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="23vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/west_point.png" alt="United States Military Academy West Point" width="16vw" height="auto" link="https://www.westpoint.edu/">}} |
 
 ## Sponsors

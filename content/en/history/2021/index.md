@@ -45,8 +45,8 @@ A Quote from the 2021 Team Packet regarding the years theme:
 | - |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="30vw" height="auto" link="https://www.umass.edu/">}} |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="30vw" height="auto" link="https://www.champlain.edu/">}} |
-| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="20vw" height="auto" link="https://www.northeastern.edu/">}} |
-| {{< image src="/images/league-members/new_hampshire.png" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
+| {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="20vw" height="auto" link="https://www.northeastern.edu/">}} |
+| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="20vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="21vw" height="auto" link="https://www.pace.edu/">}} |
