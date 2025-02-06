@@ -29,7 +29,7 @@ Congratulations to the 2023 Season Finalists!
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="60vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="45vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="55vw" height="auto" link="https://www.umass.edu/">}} |
+| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="60vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="45vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass-amherst-tall.png" alt="University of Massachusetts Amherst" width="55vw" height="auto" link="https://www.umass.edu/">}} |
 
 | **Regionals** |
 | - |
@@ -46,8 +46,8 @@ Congratulations to the 2023 Season Finalists!
 | {{< image src="/images/league-members/alfred_state.png" alt="Alfred State College" width="25vw" height="auto" link="https://www.alfredstate.edu/">}} |
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="30vw" height="auto" link="https://www.rwu.edu/">}} |
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} |
-| {{< image src="/images/league-members/new_hampshire.png" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
-| {{< image src="/images/league-members/rhodeisland.png" alt="University Rhode Island" width="23vw" height="auto" link="https://www.uri.edu/">}} |
+| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
+| {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="23vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/utica.png" alt="Utica College" width="23vw" height="auto" link="https://www.utica.edu/">}} |
 | {{< image src="/images/league-members/wentworth.png" alt="Wentworth Institute of Technology" width="23vw" height="auto" link="https://www.wit.edu/">}} |
 

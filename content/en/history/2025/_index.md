@@ -22,8 +22,6 @@ Hosted by
 
 ---
 
-## Theme
-
 {{< centered "h4" >}}3rd Party Risk - Health Care{{< /centered >}}
 
 > In the healthcare sector, third-party risk management is critical to safeguarding sensitive patient data and ensuring regulatory compliance.
@@ -33,14 +31,42 @@ Hosted by
 
 ## Timeline
 
-{{< responsive_table >}}
 | | |
 | - | - |
-| **Registration, Membership Deadline and Repository Freeze** | Friday, 24 Jan, 2025 |
-| **Qualifier Beta** | Saturday, 25 Jan, 2025 |
-| **Qualifier** | Saturday, 01 Feb, 2025 |
+| **Registration, Membership Deadline and Repository Freeze** | ~~Friday, 24 Jan, 2025~~ |
+| **Qualifier Beta** | ~~Saturday, 25 Jan, 2025~~ |
+| **Qualifier** | ~~Saturday, 01 Feb, 2025~~ |
 | **Regional** | Friday, 14 March - Sunday, 16 March, 2025 |
-{{< /responsive_table >}}
+
+## Finalists
+
+Congratulations to the teams that qualified to go to regionals at Roger Williams University!
+
+| **Going to Regionals** |
+| - |
+| {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="20vw" height="auto" link="https://www.northeastern.edu/">}} |
+| {{< image src="/images/league-members/pace.png" alt="Pace University" width="20vw" height="auto" link="https://www.pace.edu/">}} |
+| {{< image src="/images/league-members/rit.svg" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} |
+| {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="40vw" height="auto" link="https://www.rwu.edu/">}} |
+| {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
+| {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="35vw" height="auto" link="https://www.buffalo.edu/">}} |
+| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
+| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="10vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica College" width="18vw" height="auto" link="https://www.utica.edu/">}} |
+
+
+| **Qualifiers** |
+| - |
+| {{< image src="/images/league-members/alfred_state.png" alt="Alfred State College" width="21vw" height="auto" link="https://www.alfredstate.edu/">}} |
+| {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="23vw" height="auto" link="https://www.champlain.edu/">}} |
+| {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="10vw" height="auto" link="https://www.newhaven.edu/">}} |
+| {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
+| {{< image src="/images/league-members/syracuse.png" alt="Syracuse" width="19vw" height="auto" link="https://www.syracuse.edu/">}} |
+| {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="20vw" height="auto" link="https://www.umaine.edu/">}} |
+| {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
+| {{< image src="/images/league-members/wentworth.png" alt="Wentworth Institute of Technology" width="20vw" height="auto" link="https://www.wit.edu/">}} |
+
 
 ## Sponsors
 

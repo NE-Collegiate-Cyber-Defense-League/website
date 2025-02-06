@@ -49,18 +49,18 @@ Visibility is the foundation for awareness of anomalies, completed by an organiz
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/rit.png" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="images/university-at-buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="25vw" height="auto" link="https://www.albany.edu/">}} |
+| {{< image src="/images/league-members/rit.png" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="images/university-at-buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} | {{< image src="/images/league-members/albany-tall.jpg" alt="University at Albany, SUNY" width="25vw" height="auto" link="https://www.albany.edu/">}} |
 
 
 | **Regionals** |
 | - |
-| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="20vw" height="auto" link="https://www.northeastern.edu/">}} |
-| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="15vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="23vw" height="auto" link="https://www.northeastern.edu/">}} |
+| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="12vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="30vw" height="auto" link="https://www.champlain.edu/">}} |
-| {{< image src="/images/league-members/pace.png" alt="Pace University" width="25vw" height="auto" link="https://www.pace.edu/">}} |
-| {{< image src="/images/league-members/west_point.png" alt="United States Military Academy West Point" width="16vw" height="auto" link="https://www.westpoint.edu/">}} |
-| {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="29vw" height="auto" link="https://www.umaine.edu/">}} |
-| {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="15vw" height="auto" link="https://www.newhaven.edu/">}} |
+| {{< image src="/images/league-members/pace.png" alt="Pace University" width="20vw" height="auto" link="https://www.pace.edu/">}} |
+| {{< image src="/images/league-members/west_point.png" alt="United States Military Academy West Point" width="13vw" height="auto" link="https://www.westpoint.edu/">}} |
+| {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="25vw" height="auto" link="https://www.umaine.edu/">}} |
+| {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="13vw" height="auto" link="https://www.newhaven.edu/">}} |
 
 | **Qualifiers** |
 | - |

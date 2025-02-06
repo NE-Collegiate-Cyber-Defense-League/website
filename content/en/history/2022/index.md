@@ -54,11 +54,11 @@ Technologies and processes that often help support security:
 | **Regionals** |
 | - |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="20vw" height="auto" link="https://www.albany.edu/">}} |
-| {{< image src="/images/league-members/rit.png" alt="RIT" width="18vw" height="auto" link="https://www.rit.edu/">}} |
+| {{< image src="/images/league-members/rit.svg" alt="RIT" width="30vw" height="auto" link="https://www.rit.edu/">}} |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="30vw" height="auto" link="https://www.umass.edu/">}} |
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} |
 | {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="15vw" height="auto" link="https://www.newhaven.edu/">}} |
-| {{< image src="/images/league-members/new_hampshire.png" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
+| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/west_point.png" alt="United States Military Academy West Point" width="16vw" height="auto" link="https://www.westpoint.edu/">}} |
 
 | **Qualifiers** |
@@ -67,7 +67,7 @@ Technologies and processes that often help support security:
 | {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="12vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="21vw" height="auto" link="https://www.pace.edu/">}} |
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="35vw" height="auto" link="https://www.rwu.edu/">}} |
-| {{< image src="/images/league-members/rhodeisland.png" alt="University Rhode Island" width="21vw" height="auto" link="https://www.uri.edu/">}} |
+| {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="21vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/syracuse.png" alt="Syracuse" width="23vw" height="auto" link="https://www.syracuse.edu/">}} |
 | {{< image src="/images/league-members/utica.png" alt="Utica College" width="21vw" height="auto" link="https://www.utica.edu/">}} |
 
