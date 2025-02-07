@@ -72,15 +72,23 @@ Congratulations to the teams that qualified to go to regionals at Roger Williams
 
 NECCDC would not be possible without the generous support of our sponsors. By becoming involved with this one-of-a-kind event, you have the opportunity to gain access to {{< i18n "neccdcYearlyParticipants" >}} of the best and brightest students from colleges around the Northeast, observe the competitors in action, and promote your organization to maximize recruitment effectiveness as well as your increase exposure of your products and services.
 
+ **Platinum Sponsors** |
+| - |
+| {{< image src="images/roger-williams-university-logo.png" alt="Roger Williams University" width="35vw" height="auto" link="https://www.rwu.edu/">}} |
+| {{< image src="images/oshean.png" alt="OSHEAN" width="30vw" height="auto" link="https://oshean.org/">}} |
+
+
 | **Gold Sponsors** |
 | - |
-| {{< image src="images/nsa.png" alt="NSA" width="16vw" height="auto" link="https://www.nsa.gov/">}} |
+| {{< image src="images/nsa.png" alt="NSA" width="13vw" height="auto" link="https://www.nsa.gov/">}} |
+| {{< centered "h4" >}} <center> Donations from Raytheon Alumni </center> {{< /centered >}}  |
 
 | **Silver Sponsors** |
 | - |
 | {{< image src="images/cisco-networking-academy.png" alt="Cisco Network Academy" width="25vw" height="auto" link="https://www.netacad.com">}} |
-| {{< image src="images/pan.png" alt="Paloalto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
-| {{< image src="images/splunk.png" alt="Splunk" width="15vw" height="auto" link="https://www.splunk.com/">}} |
+| {{< image src="images/pan.png" alt="Palo Alto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
+| {{< image src="images/splunk.png" alt="Splunk" width="17vw" height="auto" link="https://www.splunk.com/">}} |
+| {{< image src="images/hurricane-labs.png" alt="Hurricane Labs" width="17vw" height="auto" link="https://hurricanelabs.com/">}} |
 
 | **Bronze Sponsors** |
 | - |
