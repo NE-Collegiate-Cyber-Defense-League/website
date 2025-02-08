@@ -53,7 +53,7 @@ Congratulations to the teams that qualified to go to regionals at Roger Williams
 | {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="10vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
-| {{< image src="/images/league-members/utica.png" alt="Utica College" width="18vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 
 
 | **Qualifiers** |

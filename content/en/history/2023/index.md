@@ -48,7 +48,7 @@ Congratulations to the 2023 Season Finalists!
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} |
 | {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="23vw" height="auto" link="https://www.uri.edu/">}} |
-| {{< image src="/images/league-members/utica.png" alt="Utica College" width="23vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 | {{< image src="/images/league-members/wentworth.png" alt="Wentworth Institute of Technology" width="23vw" height="auto" link="https://www.wit.edu/">}} |
 
 ## Sponsors

@@ -57,7 +57,7 @@ A Quote from the 2021 Team Packet regarding the years theme:
 | {{< image src="/images/league-members/alfred_state.png" alt="Alfred State College" width="25vw" height="auto" link="https://www.alfredstate.edu/">}} |
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="35vw" height="auto" link="https://www.rwu.edu/">}} |
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="21vw" height="auto" link="https://www.stjohns.edu/">}} |
-| {{< image src="/images/league-members/utica.png" alt="Utica College" width="21vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 
 ## Sponsors
 

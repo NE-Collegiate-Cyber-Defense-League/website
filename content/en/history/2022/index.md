@@ -69,7 +69,7 @@ Technologies and processes that often help support security:
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="35vw" height="auto" link="https://www.rwu.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="21vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/syracuse.png" alt="Syracuse" width="23vw" height="auto" link="https://www.syracuse.edu/">}} |
-| {{< image src="/images/league-members/utica.png" alt="Utica College" width="21vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 
 ## Sponsor
 

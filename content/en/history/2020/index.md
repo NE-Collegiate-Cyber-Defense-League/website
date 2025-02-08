@@ -64,7 +64,7 @@ Visibility is the foundation for awareness of anomalies, completed by an organiz
 
 | **Qualifiers** |
 | - |
-| {{< image src="/images/league-members/utica.png" alt="Utica College" width="23vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 | {{< image src="/images/league-members/wentworth.png" alt="Wentworth Institute of Technology" width="23vw" height="auto" link="https://www.wit.edu/">}} |
 | {{< image alt="Syracuse University" src="/images/league-members/syracuse.png" width="20vw" height="auto" link="https://ischool.syr.edu/" >}} |
 | {{< image alt="University of Southern Maine" src="/images/league-members/southern_maine.png" width="30vw" height="auto" link="https://usm.maine.edu/tech/" >}} |
