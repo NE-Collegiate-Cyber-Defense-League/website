@@ -18,7 +18,7 @@ Rochester Institute of Technology (1st), Northeastern University (2nd), Champlai
 University of Buffalo-SUNY (1st), Rochester Institute of Technology (2nd), Northeastern University (3rd), Champlain College, Stevens Institute of Technology, United States Military Academy West Point, University at Albany-SUNY, University of Maine, University of New Hampshire (Host), Westchester Community College
 
 ### 2017 Finalists
-Rochester Institute of Technology (1st & Host), Northeastern University (2nd), University at Buffalo-SUNY (3rd), Champlain College, Harvard University, Syracuse University, University of Maine, University of New Hampshire, Utica College, Westchester Community College
+Rochester Institute of Technology (1st & Host), Northeastern University (2nd), University at Buffalo-SUNY (3rd), Champlain College, Harvard University, Syracuse University, University of Maine, University of New Hampshire, Utica University, Westchester Community College
 
 ### 2016 Finalists
 Northeastern University (1st), Rochester Institute of Technology (2nd), Champlain College (3rd), Alfred State University, Stevens Institute of Technology, Syracuse University, University at Buffalo-SUNY, University of Maine, University of Massachusetts Boston, University of New Hampshire
