@@ -6,7 +6,7 @@
 {{ else }}
 {{ $options = merge $options (dict "outputStyle" "nested" "enableSourceMap" true) }}
 {{ end }}
-{{ $style := resources.Get $source | resources.ToCSS $options | resources.PostCSS (dict "config" "postcss.config.js") | resources.Fingerprint "sha512" }}
+{{ $style := resources.Get $source | css.Sass $options | css.PostCSS (dict "config" "postcss.config.js") | resources.Fingerprint "sha512" }}
 {{ if (eq .Kind "home") }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="all">
 {{ end }}
