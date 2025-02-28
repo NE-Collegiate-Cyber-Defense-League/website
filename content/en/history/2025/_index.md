@@ -85,10 +85,11 @@ NECCDC would not be possible without the generous support of our sponsors. By be
 
 | **Silver Sponsors** |
 | - |
+| {{< image src="images/cisa.png" alt="Cybersecurity & Infrastructure Security Agency" width="12vw" height="auto" link="https://www.cisa.gov/">}} |
 | {{< image src="images/cisco-networking-academy.png" alt="Cisco Network Academy" width="25vw" height="auto" link="https://www.netacad.com">}} |
+| {{< image src="images/hurricane-labs.png" alt="Hurricane Labs" width="17vw" height="auto" link="https://hurricanelabs.com/">}} |
 | {{< image src="images/pan.png" alt="Palo Alto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
 | {{< image src="images/splunk.png" alt="Splunk" width="17vw" height="auto" link="https://www.splunk.com/">}} |
-| {{< image src="images/hurricane-labs.png" alt="Hurricane Labs" width="17vw" height="auto" link="https://hurricanelabs.com/">}} |
 
 | **Bronze Sponsors** |
 | - |
