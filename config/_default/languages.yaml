@@ -62,30 +62,35 @@ en:
       url: "/history/"
       weight: 5
 
+    - identifier: "history-2025"
+      name: "NECCDC 2025"
+      url: "/history/2025/"
+      weight: 1
+      parent: "history"
     - identifier: "history-2024"
       name: "NECCDC 2024"
       url: "/history/2024/"
-      weight: 1
+      weight: 2
       parent: "history"
     - identifier: "history-2023"
       name: "NECCDC 2023"
       url: "/history/2023/"
-      weight: 2
+      weight: 3
       parent: "history"
     - identifier: "history-2022"
       name: "NECCDC 2022"
       url: "/history/2022/"
-      weight: 3
+      weight: 4
       parent: "history"
     - identifier: "history-2021"
       name: "NECCDC 2021"
       url: "/history/2021/"
-      weight: 4
+      weight: 5
       parent: "history"
     - identifier: "history-2020"
       name: "NECCDC 2020"
       url: "/history/2020/"
-      weight: 5
+      weight: 6
       parent: "history"
     - identifier: "history-historic"
       name: "Historic"
