@@ -14,6 +14,7 @@ Since then, the following Institutions have hosted the competition:
 - Champlain College (2019, [2022](/history/2022))
 - University of New Hampshire (2014, 2018)
 - Northeastern (2011, 2012)
+- Roger Williams University ([2025](/history/2025))
 - Pace University ([2024](/history/2024))
 - UMass Lowell ([2023](/history/2023))
 - Syracuse University (2015)

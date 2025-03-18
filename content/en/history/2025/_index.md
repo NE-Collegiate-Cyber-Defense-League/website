@@ -1,8 +1,7 @@
 ---
 title: "NECCDC 2025"
-description: Information about the NECCDC 2025 season
+description: This year, competitors worked to defend a healthcare company by minimizing third-party risk and securing systems against cyber threats. The competition was hosted by Roger Williams University and would not have been possible without their support.
 weight: 1
-includeInList: false
 date: 2024-10-05
 ---
 
@@ -29,29 +28,21 @@ Hosted by
 > Effective third-party risk management involves assessing vendors' security practices, implementing robust contract management, and conducting continuous monitoring to mitigate potential vulnerabilities.
 > By proactively managing these risks, healthcare providers can protect patient privacy, maintain trust, and adhere to strict regulatory frameworks like HIPAA and HITECH.
 
-## Timeline
-
-| | |
-| - | - |
-| **Registration, Membership Deadline and Repository Freeze** | ~~Friday, 24 Jan, 2025~~ |
-| **Qualifier Beta** | ~~Saturday, 25 Jan, 2025~~ |
-| **Qualifier** | ~~Saturday, 01 Feb, 2025~~ |
-| **Regional** | Friday, 14 March - Sunday, 16 March, 2025 |
-
 ## Finalists
 
-Congratulations to the teams that qualified to go to regionals at Roger Williams University!
+Congratulations to all of the teams that competed in the 2025 NECCDC!
 
-| **Going to Regionals** |
+| **1st** | **2nd** | **3rd** |
+| - | - | - |
+| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="25vw" height="auto" link="https://www.uml.edu/">}} | {{< image src="/images/league-members/university-new-hampshire-tall.png" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="20vw" height="auto" link="https://www.rit.edu/">}} |
+
+| **Regionals** |
 | - |
 | {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="20vw" height="auto" link="https://www.northeastern.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="20vw" height="auto" link="https://www.pace.edu/">}} |
-| {{< image src="/images/league-members/rit.svg" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} |
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="40vw" height="auto" link="https://www.rwu.edu/">}} |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="35vw" height="auto" link="https://www.buffalo.edu/">}} |
-| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} |
-| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="10vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/utica.png" alt="Utica University" width="18vw" height="auto" link="https://www.utica.edu/">}} |
 
