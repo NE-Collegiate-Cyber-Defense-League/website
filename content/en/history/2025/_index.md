@@ -91,6 +91,11 @@ NECCDC would not be possible without the generous support of our sponsors. By be
 
 {{< resources style="code" sort="desc" />}}
 
+<br>
+
+Source code for the creation of the 2025 competitions can be found in our GitHub [neccdc-2025-public](https://github.com/NE-Collegiate-Cyber-Defense-League/neccdc-2025-public/)
+
+Black team blog post on infrastructure and services: [infrasec.sh](https://infrasec.sh/post/neccdc-2025/)
 
 ### Team Resource Submissions
 

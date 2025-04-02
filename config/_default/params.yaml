@@ -35,7 +35,7 @@ social_links:
   threads: ""
   twitter: ""
   x: ""
-  youtube: "https://www.youtube.com/@northeastcollegiatecyberde2930"
+  # youtube: "https://www.youtube.com/@northeastcollegiatecyberde2930"
 
 # Makes the header sticky on tall screens
 sticky_header: true
