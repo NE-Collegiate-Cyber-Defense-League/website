@@ -60,10 +60,10 @@ en:
 
     - identifier: "history-2026"
       name: "NECCDC 2026"
-      url: "/history/2025/"
+      url: "/history/2026/"
       weight: 1
       parent: "history"
-    - identifier: "history-2026"
+    - identifier: "history-2025"
       name: "NECCDC 2025"
       url: "/history/2025/"
       weight: 2
