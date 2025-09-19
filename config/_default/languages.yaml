@@ -6,10 +6,6 @@ en:
   title: "NECCDL"
   params:
     description: "The Northeast Collegiate Cyber Defense League is an administrative body whose sole purpose is to facilitate the smooth running of NECCDC regardless of the yearly hosting institution"
-    # accessibility:
-    #   skip_text: "Skip to content"
-    #   help_text: "Accessibility Statement"
-    #   help_url: "/example-page/"
     # main_cta:
     #   text: "Join"
     #   link: "/join/"
@@ -52,9 +48,9 @@ en:
     #   post: "Learn how to impact the next generation of cybersecurity professionals"
     #   parent: "support"
 
-    - identifier: "neccdc-2025"
-      name: "NECCDC 2025"
-      url: "/history/2025/"
+    - identifier: "neccdc-2026"
+      name: "NECCDC 2026"
+      url: "/history/2026/"
       weight: 4
     
     - identifier: "history"
@@ -62,35 +58,40 @@ en:
       url: "/history/"
       weight: 5
 
-    - identifier: "history-2025"
-      name: "NECCDC 2025"
+    - identifier: "history-2026"
+      name: "NECCDC 2026"
       url: "/history/2025/"
       weight: 1
+      parent: "history"
+    - identifier: "history-2026"
+      name: "NECCDC 2025"
+      url: "/history/2025/"
+      weight: 2
       parent: "history"
     - identifier: "history-2024"
       name: "NECCDC 2024"
       url: "/history/2024/"
-      weight: 2
+      weight: 3
       parent: "history"
     - identifier: "history-2023"
       name: "NECCDC 2023"
       url: "/history/2023/"
-      weight: 3
+      weight: 4
       parent: "history"
     - identifier: "history-2022"
       name: "NECCDC 2022"
       url: "/history/2022/"
-      weight: 4
+      weight: 5
       parent: "history"
     - identifier: "history-2021"
       name: "NECCDC 2021"
       url: "/history/2021/"
-      weight: 5
+      weight: 6
       parent: "history"
     - identifier: "history-2020"
       name: "NECCDC 2020"
       url: "/history/2020/"
-      weight: 6
+      weight: 7
       parent: "history"
     - identifier: "history-historic"
       name: "Historic"
