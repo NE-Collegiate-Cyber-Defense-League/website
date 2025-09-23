@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2020"
 description: "This years theme of Visibility, emphasizing the importance of maintaining an unobstructed view into security controls and incident responses. Participants were tasked with improving network awareness through asset inventory, log analysis, and SIEM systems."
-weight: 6
+weight: 7
 date: 2020-01-01
 ---
 

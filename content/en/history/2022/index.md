@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2022"
 description: "Participants were tasked with securing systems by improving network and service visibility. The competition emphasized managing endpoint detection, identity management, and zero-trust principles in response to sudden security challenges."
-weight: 4
+weight: 5
 date: 2022-01-01
 ---
 

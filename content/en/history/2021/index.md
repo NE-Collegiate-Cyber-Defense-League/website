@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2021"
 description: "NECCDC 2021 centered around the theme of Mobility with participants working as a security team for a global news organization. The challenge focused on securing systems that were rapidly relocated, emphasizing endpoint detection, identity management, and adapting to mobile environments during the virtual event due to the COVID-19 pandemic."
-weight: 5
+weight: 6
 date: 2021-01-01
 ---
 

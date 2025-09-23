@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2023"
 description: "NECCDC 2023 centered on securing resilient cloud infrastructures, where participants managed and protected scalable services in cloud environments. The focus was on maintaining uptime and compliance with service-level agreements in large-scale enterprise networks."
-weight: 3
+weight: 4
 date: 2023-01-01
 ---
 
