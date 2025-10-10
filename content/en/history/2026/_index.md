@@ -18,3 +18,7 @@ date: 2025-09-19
 | **Qualifier Beta**                                          | Saturday, 24 Jan, 2026 |
 | **Qualifier**                                               | Saturday, 31 Jan, 2026 |
 | **Regional**                                                | Date Undetermined      |
+
+## Resources
+
+{{< resources style="code" sort="desc" />}}
