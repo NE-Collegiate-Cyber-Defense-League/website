@@ -27,7 +27,7 @@ Presented by
 | **Registration, Membership Deadline and Repository Freeze** | Monday, 19 Jan, 2026                      |
 | **Qualifier Beta**                                          | Saturday, 24 Jan, 2026                    |
 | **Qualifier**                                               | Saturday, 31 Jan, 2026                    |
-| **Regional**                                                | Friday, 20 March - Sunday, 20 March, 2026 |
+| **Regional**                                                | Friday, 20 March - Sunday, 22 March, 2026 |
 
 
 ## Sponsors
