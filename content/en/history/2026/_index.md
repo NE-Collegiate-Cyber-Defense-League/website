@@ -1,9 +1,17 @@
 ---
 title: "NECCDC 2026"
-description: ""
+description: Teams take the responsibility of securing and modernizing the infrastructure of managed service providers and their clients' infrastructure. Without the partnership of Middlesex Community College, this year's competition would not have been possible.
 weight: 1
 date: 2025-09-19
 ---
+
+---
+
+{{<intro>}}
+Presented by
+{{</intro>}}
+
+{{< image src="images/middlesex-community-college.png" alt="Middlesex Community College logo" width="80%" height="auto" link="https://www.middlesex.edu/" >}}
 
 ---
 
@@ -12,14 +20,14 @@ date: 2025-09-19
 
 ## Timeline
 
-|                                                             |                        |
-| ----------------------------------------------------------- | ---------------------- |
-| **Membership Opens**                                        | Friday, 19 Sept, 2025  |
-| **Registration Opens**                                      | Monday, 03 Nov, 2025   |
-| **Registration, Membership Deadline and Repository Freeze** | Monday, 19 Jan, 2026   |
-| **Qualifier Beta**                                          | Saturday, 24 Jan, 2026 |
-| **Qualifier**                                               | Saturday, 31 Jan, 2026 |
-| **Regional**                                                | Date Undetermined      |
+|                                                             |                                           |
+| ----------------------------------------------------------- | ----------------------------------------- |
+| **Membership Opens**                                        | Friday, 19 Sept, 2025                     |
+| **Registration Opens**                                      | Monday, 03 Nov, 2025                      |
+| **Registration, Membership Deadline and Repository Freeze** | Monday, 19 Jan, 2026                      |
+| **Qualifier Beta**                                          | Saturday, 24 Jan, 2026                    |
+| **Qualifier**                                               | Saturday, 31 Jan, 2026                    |
+| **Regional**                                                | Friday, 20 March - Sunday, 20 March, 2026 |
 
 
 ## Sponsors
