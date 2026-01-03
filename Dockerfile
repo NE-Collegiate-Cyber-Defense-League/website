@@ -20,7 +20,6 @@ RUN apt install -y /tmp/hugo_extended_${HUGO_VERSION}_linux-amd64.deb && \
 
 COPY . $WORKDIR
 
-
 RUN npm clean-install --omit=dev --ignore-scripts && \
     hugo --theme=dot-org-hugo-theme -b ${BUILD_URL} && \
     npx -y pagefind --site public
