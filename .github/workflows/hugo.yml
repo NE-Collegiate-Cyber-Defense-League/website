@@ -32,8 +32,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.148.1
-      DART_SASS_VERSION: 1.89.2
+      HUGO_VERSION: 0.154.2
+      DART_SASS_VERSION: 1.97.1
     steps:
       - name: Install Hugo CLI
         run: |
@@ -46,7 +46,7 @@ jobs:
           mv ${{ runner.temp }}/dart-sass/ /usr/local/bin
           echo "/usr/local/bin/dart-sass" >> $GITHUB_PATH
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
           fetch-depth: 0
@@ -67,7 +67,7 @@ jobs:
       - name: Build search index
         run: npx -y pagefind --site public
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
