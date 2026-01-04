@@ -2,8 +2,8 @@ FROM node:latest AS build
 
 ARG WORKDIR=/app
 ARG BUILD_URL=http://localhost:8080
-ARG HUGO_VERSION=0.148.1 \
-    DART_SASS_VERSION=1.89.2
+ARG HUGO_VERSION=0.154.2 \
+    DART_SASS_VERSION=1.97.1
 
 WORKDIR $WORKDIR
 
@@ -19,7 +19,6 @@ RUN apt install -y /tmp/hugo_extended_${HUGO_VERSION}_linux-amd64.deb && \
     rm /tmp/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
 
 COPY . $WORKDIR
-
 
 RUN npm clean-install --omit=dev --ignore-scripts && \
     hugo --theme=dot-org-hugo-theme -b ${BUILD_URL} && \
