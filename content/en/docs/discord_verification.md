@@ -18,21 +18,13 @@ Find the role labeled **Verified** that has the NECCDL verification bot icon nex
 
 It will open the NECCDL verification website in your browser. Follow the instructions to verify your account. You will see a prompt to log in with your Discord account and authorize the NECCDL verification bot.
 
-{{< image src="/images/discord-instructions/auth-screen.png" alt="Discord verification login screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
+{{< image src="/images/discord-instructions/auth-screen.png" alt="Discord verification login screen" width="35%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
 
 After completing the verification process, you will receive a role in the NECCDL Discord server that grants you access.
 
-{{< image src="/images/discord-instructions/completed.png" alt="Auth completed screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
+{{< image src="/images/discord-instructions/completed.png" alt="Auth completed screen" width="40%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
 
 and in Discord you will see the Verified role added to your account.
 
 {{< image src="/images/discord-instructions/connected-account.png" alt="Discord verification role added screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
 
-## Verify via the Verification Link
-
-Visit [https://discord.cf.neccdl.org/verify](https://discord.cf.neccdl.org/verify) and follow the instructions to verify your account. You will see a prompt to log in with your Discord account and authorize the NECCDL verification bot.
-{{< image src="/images/discord-instructions/auth-screen.png" alt="Discord verification login screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
-
-After completing the verification process, you will receive a role in the NECCDL Discord server that grants you access.
-
-{{< image src="/images/discord-instructions/completed.png" alt="Auth completed screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
