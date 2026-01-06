@@ -28,6 +28,12 @@ and in Discord you will see the Verified role added to your account.
 
 {{< image src="/images/discord-instructions/connected-account.png" alt="Discord verification role added screen" width="30%" height="auto" style="display: block; margin-left: auto; margin-right: auto;" >}}
 
+## Logout
+
+If you want to logout from the NECCDL verification bot, you can do so by visiting the [NECCDL Discord Verification Logout Page](https://discord.cf.neccdl.org/logout). You will be redirected to Discord to confirm the logout.
+
+After logging out, you will lose access to any roles granted by the NECCDL verification bot until you verify again.
+
 ## FAQ
 
 1. What data does NECCDL collect during verification?
