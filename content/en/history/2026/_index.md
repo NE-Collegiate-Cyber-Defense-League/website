@@ -45,6 +45,16 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | - |
 | {{< image src="images/hurricane-labs.png" alt="Hurricane Labs" width="15vw" height="auto" link="https://hurricanelabs.com/">}} |
 
+## Competitors
+
+| |
+| - |
+| {{< image src="/images/league-members/cornell.svg" alt="Cornell University" width="28vw" height="auto" link="https://www.cornell.edu/">}} |
+| {{< image src="/images/league-members/rit.svg" alt="Rochester Institute of Technology" width="30vw" height="auto" link="https://www.rit.edu/">}} |
+| {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="40vw" height="auto" link="https://www.rwu.edu/">}} |
+| {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
+| {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
+
 ## Resources
 
 {{< resources style="code" sort="desc" />}}

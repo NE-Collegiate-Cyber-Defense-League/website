@@ -28,7 +28,7 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
     <select name="os0" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 20px;
                               background-color: #ffffff; color: #333; font-weight: bold; text-align: center;
                               background-repeat: no-repeat; background-position: right 10px center;">
-      <option value="Vibranium" style="color: #333; background-color: #f3f3f3;">Vibranium $35,000.00 USD</option>
+      <option value="Vibranium" style="color: #333; background-color: #f3f3f3;">Vibranium $30,000.00 USD</option>
       <option value="Platinum" style="color: #333; background-color: #f3f3f3;">Platinum $20,000.00 USD</option>
       <option value="Gold" selected="selected" style="color: #333; background-color: #f3f3f3;">Gold $10,000.00 USD</option>
       <option value="Silver" style="color: #333; background-color: #f3f3f3;">Silver $5,000.00 USD</option>
@@ -51,7 +51,7 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
 {{< responsive_table >}}
 |                                                                   | Supporter         | Patron            | Bronze            | Silver                 | Gold                                            | Platinum                                        | Vibranium                                       |
 | ----------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ---------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **Cost**                                                          | $500              | $1,000            | $2,000            | $5,000                 | $10,000                                         | $20,000                                         | $35,000                                         |
+| **Cost**                                                          | $500              | $1,000            | $2,000            | $5,000                 | $10,000                                         | $20,000                                         | $30,000                                         |
 | **Logo on website and official competition documents**            | {{< check >}}     | {{< check >}}     | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
 | **Invitations to recruiting dinner**                              | One               | One               | Two               | Three                  | Four                                            | Six                                             | Eight                                           |
 | **Student resume booklet**                                        | Regionals         | Regionals         | Regionals         | Regionals & Qualifiers | Regionals & Qualifiers                          | Regionals & Qualifiers                          | Regionals & Qualifiers                          |
