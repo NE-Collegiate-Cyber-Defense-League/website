@@ -54,6 +54,11 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/league-members/roger_williams.png" alt="Roger Williams University" width="40vw" height="auto" link="https://www.rwu.edu/">}} |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
+| {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
+| {{< image src="/images/league-members/salem-state-university.svg" alt="Salem State University" width="22vw" height="auto" link="https://[www.umass.edu](https://www.salemstate.edu/)/">}} |
+| {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="22vw" height="auto" link="https://www.northeastern.edu/">}} |
+| {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="22vw" height="auto" link="https://www.champlain.edu/">}} |
+| {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
 
 ## Resources
 
