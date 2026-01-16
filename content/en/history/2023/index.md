@@ -35,7 +35,7 @@ Congratulations to the 2023 Season Finalists!
 | - |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="30vw" height="auto" link="https://www.champlain.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="25vw" height="auto" link="https://www.pace.edu/">}} |
-| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="15vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="24vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="29vw" height="auto" link="https://www.umaine.edu/">}} |
 | {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="15vw" height="auto" link="https://www.newhaven.edu/">}} |

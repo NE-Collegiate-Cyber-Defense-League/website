@@ -55,10 +55,18 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="22vw" height="auto" link="https://www.albany.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="18vw" height="auto" link="https://www.uri.edu/">}} |
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
-| {{< image src="/images/league-members/salem-state-university.svg" alt="Salem State University" width="22vw" height="auto" link="https://[www.umass.edu](https://www.salemstate.edu/)/">}} |
+| {{< image src="/images/league-members/salem-state-university.svg" alt="Salem State University" width="22vw" height="auto" link="https://www.salemstate.edu/">}} |
 | {{< image src="/images/league-members/northeastern.svg" alt="Northeastern University" width="22vw" height="auto" link="https://www.northeastern.edu/">}} |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="22vw" height="auto" link="https://www.champlain.edu/">}} |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
+| {{< image src="/images/league-members/pace.png" alt="Pace University" width="16vw" height="auto" link="https://www.pace.edu/">}} |
+| {{< image src="/images/league-members/syracuse.png" alt="Syracuse" width="19vw" height="auto" link="https://www.syracuse.edu/">}} |
+| {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="35vw" height="auto" link="https://www.buffalo.edu/">}} |
+| {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="20vw" height="auto" link="https://www.umaine.edu/">}} |
+| {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="18vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
+| {{< image src="/images/league-members/utica.png" alt="Utica University" width="16vw" height="auto" link="https://www.utica.edu/">}} |
+
 
 ## Resources
 
