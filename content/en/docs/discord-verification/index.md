@@ -1,6 +1,8 @@
 ---
 title: "Discord Verification"
-description: "How to verify your Discord account for NECCDL"
+description: "How to verify your account on the NECCDL Discord server"
+_build:
+  list: never
 ---
 
 As a measure to reduce spam, NECCDL requires all participants to verify their Discord accounts before being allowed into the general NECCDL Discord server.

@@ -1,7 +1,12 @@
-# Advice from NECCDC Red Team
+---
+title: "NECCDC Red Team Advice"
+description: "TODO"
+_build:
+  list: never
+---
 
 ## Incident Reports can help win back points, but only if they are good!
-1. Review the [National CCDC Rules](https://www.nationalccdc.org/index.php/competition/competitors/rules): "9 Scoring" (section d)
+1. Review the [National CCDC Rules](https://nationalccdc.org/rules.html): "9 Scoring" (section d)
 2. If an attacker has access to your Domain Controller, then the sky is actually falling.
 3. Executives have no idea what an ssh shell is, or any other technical term.
 Use business terms that your grandparents would understand when creating your executive summary.

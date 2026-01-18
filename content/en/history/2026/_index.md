@@ -60,8 +60,6 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="22vw" height="auto" link="https://www.champlain.edu/">}} |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="16vw" height="auto" link="https://www.pace.edu/">}} |
-| {{< image src="/images/league-members/syracuse.png" alt="Syracuse" width="19vw" height="auto" link="https://www.syracuse.edu/">}} |
-| {{< image src="/images/league-members/buffalo.png" alt="University of Buffalo, SUNY" width="35vw" height="auto" link="https://www.buffalo.edu/">}} |
 | {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="20vw" height="auto" link="https://www.umaine.edu/">}} |
 | {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="18vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
