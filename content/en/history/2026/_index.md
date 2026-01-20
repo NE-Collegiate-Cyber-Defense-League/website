@@ -37,6 +37,10 @@ This one-of-a-kind competition would not be possible without the generous contri
 If you're interested in supporting us, check out the [sponsor page]({{< ref "sponsor" >}}) or email us at sponsor@neccdl.org
 
 
+| **Platinum Sponsors** |
+| - |
+| {{< image alt="AWS" src="images/scc-training-grant.png" width="26vw" height="auto" link="https://www.dol.gov/" >}} {{< rawhtml >}}<br><center><i style="font-size: 7px;">This workforce product was funded by a grant awarded by the U.S. Department of Labor’s Employment and Training Administration. The product was created by the grantee and does not necessarily reflect the official position of the U.S. Department of Labor. The U.S. Department of Labor makes no guarantees, warranties, or assurances of any kind, express or implied, with respect to such information, including any information on linked sites and including, but not limited to, accuracy of the information or its completeness, timeliness, usefulness, adequacy, continued availability, or ownership. This product is copyrighted by the institution that created it.</i></center>{{< /rawhtml >}} |
+
 | **Gold Sponsors** |
 | - |
 | {{< image alt="AWS" src="images/aws.svg" width="12vw" height="auto" link="https://aws.amazon.com/" >}} |
