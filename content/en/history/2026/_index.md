@@ -61,9 +61,12 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="16vw" height="auto" link="https://www.pace.edu/">}} |
 | {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="20vw" height="auto" link="https://www.umaine.edu/">}} |
-| {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="18vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="17vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="25vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/utica.png" alt="Utica University" width="16vw" height="auto" link="https://www.utica.edu/">}} |
+| {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="10vw" height="auto" link="https://www.newhaven.edu/">}} |
+| {{< image src="/images/league-members/siena.png" alt="Siena University" width="16vw" height="auto" link="https://www.siena.edu/">}} |
+| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="34vw" height="auto" link="https://https://www.middlesex.edu/">}} |
 
 
 ## Resources
