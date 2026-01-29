@@ -76,3 +76,16 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 ## Resources
 
 {{< resources style="code" sort="desc" />}}
+
+### Team Resource Submissions
+- [Champlain College](https://github.com/champcybersec/ccdc2026)
+- [Cornell University](https://github.com/Cornell-Cybersecurity-Club/ccdc2026)
+- [Northeastern University](https://gitlab.com/nuccdc/tools)
+- [Pace University](https://github.com/seidenbergcybersec/Pace-University-NECCDC-2026)
+- [Rochester Institute of Technology](https://github.com/ccdc-rit)
+- [Roger Williams University](https://github.com/rwu-cyber/cyber-team/tree/dev-neccdc-2026)
+  - [PowerShell Enumeration](https://gitlab.com/tacticaltimbz1/PowerShell-Enumeration)
+- [SUNY Albany](https://github.com/CyberDefenseOrganization/CCDC2026)
+- [University of Massachusetts Amherst](https://github.com/UMassCybersecurity/CCDC2026)
+- [University of Massachusetts Lowell](https://github.com/UML-Cyber-Security/ccdc2026)
+- [Utica College](https://github.com/Utica-Cybersecurity-Club)
