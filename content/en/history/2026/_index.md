@@ -60,7 +60,7 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | **Regionals** |
 | - |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="23vw" height="auto" link="https://www.champlain.edu/">}} |
-| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="32vw" height="auto" link="https://https://www.middlesex.edu/">}} |
+| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="32vw" height="auto" link="https://www.middlesex.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="14vw" height="auto" link="https://www.pace.edu/">}} |
 | {{< image src="/images/league-members/rit.svg" alt="Rochester Institute of Technology" width="31vw" height="auto" link="https://www.rit.edu/">}} |
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
