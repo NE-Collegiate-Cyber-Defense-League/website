@@ -47,9 +47,10 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 
 | **Silver Sponsors** |
 | - |
+| {{< image alt="Extreme Networks" src="/images/sponsors/extreme-networks.svg" width="18vw" height="auto" link="https://www.extremenetworks.com/" >}} |
 | {{< image src="/images/sponsors/hurricane-labs.png" alt="Hurricane Labs" width="15vw" height="auto" link="https://hurricanelabs.com/">}} |
 | {{< image src="/images/sponsors/paloalto-networks.png" alt="Palo Alto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
-| {{< image src="/images/sponsors/splunk.png" alt="Splunk" width="17vw" height="auto" link="https://www.splunk.com/">}} |
+| {{< image src="/images/sponsors/splunk.png" alt="Splunk" width="15vw" height="auto" link="https://www.splunk.com/">}} |
 
 | **Bronze Sponsors** |
 | - |
