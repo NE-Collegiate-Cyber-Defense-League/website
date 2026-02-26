@@ -1,7 +1,6 @@
 ---
 title: "Sponsor"
 description: The Northeast Collegiate Cyber Defense League would not be possible without our generous support from out sponsors
-includeInList: false
 date: 1970-01-01
 ---
 

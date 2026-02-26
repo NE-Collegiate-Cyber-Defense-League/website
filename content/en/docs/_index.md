@@ -3,11 +3,5 @@ title: "Docs"
 description: "Lander for NECCDL Resources"
 ---
 
-## NECCDL
-
-- [Discord Verification](discord-verification)
-
-## NECCDC
-
-- [Incident Report Template](files/IncidentReportTemplate.pdf)
-- [Red Team Advice](red_team_advice)
+Work in progress lander for NECCDC resource.
+If you have any sugesstions please open an issue or submit a PR.
