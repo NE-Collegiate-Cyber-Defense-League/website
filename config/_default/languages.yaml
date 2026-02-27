@@ -52,7 +52,7 @@ en:
       name: "NECCDC 2026"
       url: "/history/2026/"
       weight: 4
-    
+
     - identifier: "history"
       name: "History"
       url: "/history/"

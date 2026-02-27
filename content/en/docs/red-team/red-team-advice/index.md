@@ -1,8 +1,7 @@
 ---
 title: "NECCDC Red Team Advice"
-description: "TODO"
-_build:
-  list: never
+description: ""
+includeInList: false
 ---
 
 ## Incident Reports can help win back points, but only if they are good!

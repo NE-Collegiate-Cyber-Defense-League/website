@@ -1,4 +1,5 @@
 # Information for the landing page
+breadcrumb_home: Home
 hero1:
   other: Northeast
 hero2.1:
@@ -42,7 +43,7 @@ Megabyte-symbol:
 neccdcYearlyParticipants:
   other: 130+
 neccdcStudents:
-  other: "2750"
+  other: "2830"
 neccdcInstitutions:
   other: "35"
 neccdcRunningYears:
