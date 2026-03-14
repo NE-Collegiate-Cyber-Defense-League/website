@@ -51,10 +51,17 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/sponsors/hurricane-labs.png" alt="Hurricane Labs" width="15vw" height="auto" link="https://hurricanelabs.com/">}} |
 | {{< image src="/images/sponsors/paloalto-networks.png" alt="Palo Alto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
 | {{< image src="/images/sponsors/splunk.png" alt="Splunk" width="15vw" height="auto" link="https://www.splunk.com/">}} |
+| {{< image src="/images/sponsors/mre-security.svg" alt="MRE Security" width="13vw" height="auto" link="https://mresecurity.com/">}} |
 
 | **Bronze Sponsors** |
 | - |
 | {{< image src="/images/sponsors/fortra.png" alt="Fortra" width="18vw" height="auto" link="https://www.fortra.com/">}} |
+
+
+| **Patron Sponsors** |
+| - |
+| {{< rawhtml >}}<center>Secure Technology, LLC</center>{{< /rawhtml >}} |
+
 
 ## Competitors
 
@@ -98,4 +105,5 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 - [SUNY Albany](https://github.com/CyberDefenseOrganization/CCDC2026)
 - [University of Massachusetts Amherst](https://github.com/UMassCybersecurity/CCDC2026)
 - [University of Massachusetts Lowell](https://github.com/UML-Cyber-Security/ccdc2026)
+- [University of New Hampshire](https://github.com/UNHCSC/ccdc2026)
 - [Utica College](https://github.com/Utica-Cybersecurity-Club)
