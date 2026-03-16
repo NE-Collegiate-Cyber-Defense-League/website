@@ -44,6 +44,7 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | **Gold Sponsors** |
 | - |
 | {{< image alt="AWS" src="/images/sponsors/aws.svg" width="12vw" height="auto" link="https://aws.amazon.com/" >}} |
+| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="30vw" height="auto" link="https://www.middlesex.edu/" >}} |
 
 | **Silver Sponsors** |
 | - |
