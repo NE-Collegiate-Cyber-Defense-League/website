@@ -52,7 +52,8 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | {{< image src="/images/sponsors/hurricane-labs.png" alt="Hurricane Labs" width="15vw" height="auto" link="https://hurricanelabs.com/">}} |
 | {{< image src="/images/sponsors/paloalto-networks.png" alt="Palo Alto Networks" width="35vw" height="auto" link="https://paloaltonetworksacademy.net/">}} |
 | {{< image src="/images/sponsors/splunk.png" alt="Splunk" width="15vw" height="auto" link="https://www.splunk.com/">}} |
-| {{< image src="/images/sponsors/mre-security.svg" alt="MRE Security" width="13vw" height="auto" link="https://mresecurity.com/">}} |
+| {{< image src="/images/sponsors/mre-security.svg" alt="MRE Security" width="15vw" height="auto" link="https://mresecurity.com/">}} |
+| {{< image src="/images/sponsors/cyber-trust-massachusetts.png" alt="CyberTrust Massachusetts" width="20vw" height="auto" link="https://www.cybertrustmass.org/">}} |
 
 | **Bronze Sponsors** |
 | - |
