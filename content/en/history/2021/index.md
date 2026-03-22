@@ -38,7 +38,7 @@ A Quote from the 2021 Team Packet regarding the years theme:
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/rit.png" alt="RIT" width="18vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="20vw" height="auto" link="https://www.newhaven.edu/">}} | {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="30vw" height="auto" link="https://www.umaine.edu/">}} |
+| {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="20vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/new_haven.png" alt="University of New Haven" width="20vw" height="auto" link="https://www.newhaven.edu/">}} | {{< image src="/images/league-members/umaine.png" alt="University of Maine" width="30vw" height="auto" link="https://www.umaine.edu/">}} |
 
 
 | **Regionals** |

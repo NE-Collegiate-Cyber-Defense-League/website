@@ -34,7 +34,7 @@ Congratulations to all of the teams that competed in the 2025 NECCDC!
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="25vw" height="auto" link="https://www.uml.edu/">}} | {{< image src="/images/league-members/university-new-hampshire-tall.png" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="20vw" height="auto" link="https://www.rit.edu/">}} |
+| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="25vw" height="auto" link="https://www.uml.edu/">}} | {{< image src="/images/league-members/university-new-hampshire-tall.png" alt="University of New Hampshire" width="30vw" height="auto" link="https://www.unh.edu/">}} | {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="20vw" height="auto" link="https://www.rit.edu/">}} |
 
 | **Regionals** |
 | - |

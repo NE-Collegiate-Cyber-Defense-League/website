@@ -29,7 +29,7 @@ Congratulations to the 2024 Season Finalists!
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="60vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="45vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="45vw" height="auto" link="https://www.uml.edu/">}} |
+| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="26vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="22vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="18vw" height="auto" link="https://www.uml.edu/">}} |
 
 | **Regionals** |
 | - |
