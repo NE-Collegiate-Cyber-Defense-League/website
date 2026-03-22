@@ -49,7 +49,7 @@ Visibility is the foundation for awareness of anomalies, completed by an organiz
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/rit.png" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="images/university-at-buffalo.png" alt="University of Buffalo, SUNY" width="30vw" height="auto" link="https://www.buffalo.edu/">}} | {{< image src="/images/league-members/albany-tall.jpg" alt="University at Albany, SUNY" width="25vw" height="auto" link="https://www.albany.edu/">}} |
+| {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="25vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="images/university-at-buffalo.png" alt="University of Buffalo, SUNY" width="25vw" height="auto" link="https://www.buffalo.edu/">}} | {{< image src="/images/league-members/albany-stacked.png" alt="University at Albany, SUNY" width="23vw" height="auto" link="https://www.albany.edu/">}} |
 
 
 | **Regionals** |

@@ -17,19 +17,6 @@ Presented by
 
 {{<toc>}}
 
-
-## Timeline
-
-|                                                             |                                           |
-| ----------------------------------------------------------- | ----------------------------------------- |
-| **Membership Opens**                                        | Friday, 19 Sept, 2025                     |
-| **Registration Opens**                                      | Monday, 03 Nov, 2025                      |
-| **Registration, Membership Deadline and Repository Freeze** | Monday, 19 Jan, 2026                      |
-| **Qualifier Beta**                                          | Saturday, 24 Jan, 2026                    |
-| **Qualifier**                                               | Saturday, 31 Jan, 2026                    |
-| **Regional**                                                | Friday, 20 March - Sunday, 22 March, 2026 |
-
-
 ## Sponsors
 
 This one-of-a-kind competition would not be possible without the generous contributions from our sponsors.
@@ -67,15 +54,16 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 
 ## Competitors
 
+| **1st** | **2nd** | **3rd** |
+| - | - | - |
+| {{< image src="/images/league-members/umass_lowell.png" alt="University of Massachusetts Lowell" width="20vw" height="auto" link="https://www.uml.edu/">}} | {{< image src="/images/league-members/albany-stacked.png" alt="University at Albany, SUNY" width="20vw" height="auto" link="https://www.albany.edu/">}} | {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="20vw" height="auto" link="https://www.rit.edu/">}} |
+
 | **Regionals** |
 | - |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="23vw" height="auto" link="https://www.champlain.edu/">}} |
 | {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="32vw" height="auto" link="https://www.middlesex.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="14vw" height="auto" link="https://www.pace.edu/">}} |
-| {{< image src="/images/league-members/rit.svg" alt="Rochester Institute of Technology" width="31vw" height="auto" link="https://www.rit.edu/">}} |
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
-| {{< image src="/images/league-members/albany.png" alt="University at Albany, SUNY" width="21vw" height="auto" link="https://www.albany.edu/">}} |
-| {{< image src="/images/league-members/umass-lowell-wide.png" alt="University of Massachusetts Lowell" width="16vw" height="auto" link="https://www.uml.edu/">}} |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
 | {{< image src="/images/league-members/university-new-hampshire.webp" alt="University of New Hampshire" width="22vw" height="auto" link="https://www.unh.edu/">}} |
 | {{< image src="/images/league-members/uri.png" alt="University Rhode Island" width="17vw" height="auto" link="https://www.uri.edu/">}} |

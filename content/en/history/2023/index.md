@@ -29,7 +29,7 @@ Congratulations to the 2023 Season Finalists!
 
 | **1st** | **2nd** | **3rd** |
 | - | - | - |
-| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="60vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit.png" alt="RIT" width="45vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass-amherst-tall.png" alt="University of Massachusetts Amherst" width="55vw" height="auto" link="https://www.umass.edu/">}} |
+| {{< image src="/images/league-members/northeastern.png" alt="Northeastern University" width="60vw" height="auto" link="https://www.northeastern.edu/">}} | {{< image src="/images/league-members/rit_vertical.svg" alt="RIT" width="45vw" height="auto" link="https://www.rit.edu/">}} | {{< image src="/images/league-members/umass-amherst-tall.png" alt="University of Massachusetts Amherst" width="55vw" height="auto" link="https://www.umass.edu/">}} |
 
 | **Regionals** |
 | - |
