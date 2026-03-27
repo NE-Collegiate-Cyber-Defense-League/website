@@ -1,0 +1,3 @@
+{{ $platform := .Get 0 }}
+
+{{ index .Site.Params.social_links $platform }}
