@@ -1,7 +1,7 @@
 ---
 title: "Black Team"
 description: "NECCDL Black Team Resources"
-type: midlist
+includeInList: false
 ---
 
 If you have questions about or infrastructure reach out in [Discord]({{< social_link discord >}}) or interested in volunteering email blackteam@neccdl.org
