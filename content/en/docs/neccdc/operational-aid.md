@@ -21,7 +21,8 @@ For example, the first request will cost x1, the second x1, the third x2, and so
 | Server Redeployments                  | Cleanly redeploy the server to a pre-competition state.                                                                                                                                                             | 30   |
 | Instance Connectivity Troubleshooting | Removing firewall rules that block instance connectivity, etc. If the Black Team cannot connect themselves, a server redeployment will likely be required instead.                                                  | 30   |
 | Account Logout                        | Password reset for any user (Blue, Black, Employee). If the Black Team cannot connect themselves, a server redeployment will be required instead.                                                                   | 10   |
-| Competent Questions                   | Thoughtful questions that include information on what your team has already tried, including results if applicable.<br>Abuse of this offering or questions that lack any prior effort will result in a 5-point fee. | 0    |
+| System Reboot                         | Reboot of the system from the control plane. Excessive use will result in a 10-point fee per occurrence.                                                                                                            | 0\*  |
+| Competent Questions                   | Thoughtful questions that include information on what your team has already tried, including results if applicable.<br>Abuse of this offering or questions that lack any prior effort will result in a 5-point fee. | 0\*  |
 | Competition Setup Questions           | This includes questions related to initial environment VPN setup, access to initial credentials, questions designated to Black, White or Red Teams, and the like.                                                   | 0    |
 
 ## Additional Information
