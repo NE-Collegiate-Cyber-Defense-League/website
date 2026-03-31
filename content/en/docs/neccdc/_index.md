@@ -5,3 +5,4 @@ type: midlist
 ---
 
 - [Discord Verification](discord-verification)
+- [Operational Aid](operational-aid)
